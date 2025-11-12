@@ -2,7 +2,7 @@
  {
   "pharmacy": "동화약품몰(dw1897.co.kr)",
   "name": "파워콜코프",
-  "symtom": "감기,목감기,인후통,기침,가래",
+  "symptom": "목감기,인후통,기침,가래",
   "ingredient": "AAP",
   "unit": "10정",
   "base_price": 1267,
@@ -13,7 +13,7 @@
  {
   "pharmacy": "동화약품몰(dw1897.co.kr)",
   "name": "파워콜노즈",
-  "symtom": "코감기",
+  "symptom": "코감기",
   "ingredient": "AAP",
   "unit": "10정",
   "base_price": 1267,
@@ -24,7 +24,7 @@
  {
   "pharmacy": "동화약품몰(dw1897.co.kr)",
   "name": "파워콜종합",
-  "symtom": "종합감기",
+  "symptom": "종합감기",
   "ingredient": "AAP",
   "unit": "10정",
   "base_price": 1267,
@@ -35,7 +35,7 @@
  {
   "pharmacy": "동화약품몰(dw1897.co.kr)",
   "name": "파워콜에스종합",
-  "symtom": "종합감기",
+  "symptom": "종합감기",
   "ingredient": "AAP",
   "unit": "10정",
   "base_price": 1267,
@@ -46,7 +46,7 @@
  {
   "pharmacy": "동화약품몰(dw1897.co.kr)",
   "name": "플로라딘연질",
-  "symtom": "알러지(2rd AH)",
+  "symptom": "알러지(2rd AH)",
   "ingredient": "LORA",
   "unit": "10정",
   "base_price": 1267,
@@ -57,7 +57,7 @@
  {
   "pharmacy": "동화약품몰(dw1897.co.kr)",
   "name": "화이투벤큐플러스코프",
-  "symtom": "목감기",
+  "symptom": "목감기",
   "ingredient": "AAP,구아이페네신,DXM,Nos,트리프롤리딘",
   "unit": "10정",
   "base_price": 1430,
@@ -68,7 +68,7 @@
  {
   "pharmacy": "동화약품몰(dw1897.co.kr)",
   "name": "화이투벤큐플러스",
-  "symtom": "종합감기",
+  "symptom": "종합감기",
   "unit": "10정",
   "base_price": 1430,
   "discount_condition": "150개",
@@ -78,7 +78,7 @@
  {
   "pharmacy": "동화약품몰(dw1897.co.kr)",
   "name": "화이투벤멘톨나잘 0.1%",
-  "symtom": "코감기,알러지성 비염",
+  "symptom": "코감기,알러지성 비염",
   "ingredient": "자일로메타졸린",
   "unit": "10ml",
   "base_price": 6996,
@@ -89,7 +89,7 @@
  {
   "pharmacy": "동화약품몰(dw1897.co.kr)",
   "name": "화이투벤나잘 0.1%",
-  "symtom": "코감기,알러지성 비염",
+  "symptom": "코감기,알러지성 비염",
   "ingredient": "자일로메타졸린",
   "unit": "10ml",
   "base_price": 6996,
@@ -100,7 +100,7 @@
  {
   "pharmacy": "동화약품몰(dw1897.co.kr)",
   "name": "화이투벤나잘 0.05%(어린이)",
-  "symtom": "코감기,알러지성 비염",
+  "symptom": "코감기,알러지성 비염",
   "ingredient": "자일로메타졸린",
   "unit": "10ml",
   "base_price": 6996,
@@ -111,7 +111,7 @@
  {
   "pharmacy": "녹십자몰(premion.gccorp.com)",
   "name": "알러젯연질",
-  "symtom": "알러지(2rd AH)",
+  "symptom": "알러지(2rd AH)",
   "ingredient": "CTZ",
   "unit": "10정",
   "base_price": 1430,
@@ -122,7 +122,7 @@
  {
   "pharmacy": "녹십자몰(premion.gccorp.com)",
   "name": "쿨드림연질",
-  "symtom": "수면유도제",
+  "symptom": "수면유도제",
   "ingredient": "DHM",
   "unit": "10정",
   "base_price": 1210,
@@ -133,7 +133,7 @@
  {
   "pharmacy": "녹십자몰(premion.gccorp.com)",
   "name": "탁센덱시",
-  "symtom": "소염해열진통",
+  "symptom": "소염해열진통",
   "ingredient": "Dexi 300mg",
   "unit": "10정",
   "base_price": 1100,
@@ -144,7 +144,7 @@
  {
   "pharmacy": "녹십자몰(premion.gccorp.com)",
   "name": "탁센",
-  "symtom": "소염진통",
+  "symptom": "소염진통",
   "ingredient": "Naproxen 250mg",
   "unit": "10정",
   "base_price": 1650,
@@ -155,7 +155,7 @@
  {
   "pharmacy": "녹십자몰(premion.gccorp.com)",
   "name": "탁센레이디",
-  "symtom": "소염진통생리통",
+  "symptom": "소염진통생리통",
   "ingredient": "Dexi 300mg",
   "unit": "10정",
   "base_price": 1650,
@@ -166,7 +166,7 @@
  {
   "pharmacy": "녹십자몰(premion.gccorp.com)",
   "name": "실리웰골드(조건2)",
-  "symtom": "간기능개선",
+  "symptom": "간기능개선",
   "ingredient": "밀크시슬열매(실리마린 함유)",
   "unit": "60정 2개",
   "base_price": 25000,
@@ -177,7 +177,7 @@
  {
   "pharmacy": "녹십자몰(premion.gccorp.com)",
   "name": "실리웰골드(조건1)",
-  "symtom": "간기능개선",
+  "symptom": "간기능개선",
   "ingredient": "밀크시슬열매(실리마린 함유)",
   "unit": "60정 2개",
   "base_price": 25000,
@@ -188,7 +188,7 @@
  {
   "pharmacy": "녹십자몰(premion.gccorp.com)",
   "name": "그린노즈플러스",
-  "symtom": "코감기,알러지",
+  "symptom": "코감기,알러지",
   "ingredient": "벨라돈나 0.2, 카페인 20, CPM4",
   "unit": "10정",
   "base_price": 1540,
@@ -199,7 +199,7 @@
  {
   "pharmacy": "녹십자몰(premion.gccorp.com)",
   "name": "노바손 15g",
-  "symtom": "광범위피부질환,습진,가려움",
+  "symptom": "광범위피부질환,습진,가려움",
   "ingredient": "GEN(겐타마이신),BT(베타메타손)",
   "unit": "15g",
   "base_price": 1870,
@@ -210,7 +210,7 @@
  {
   "pharmacy": "녹십자몰(premion.gccorp.com)",
   "name": "노바손 30g",
-  "symtom": "광범위피부질환,습진,가려움",
+  "symptom": "광범위피부질환,습진,가려움",
   "ingredient": "GEN(겐타마이신),BT(베타메타손)",
   "unit": "30g",
   "base_price": 2860,
@@ -221,7 +221,7 @@
  {
   "pharmacy": "녹십자몰(premion.gccorp.com)",
   "name": "바스포",
-  "symtom": "피부상처치유,화상",
+  "symptom": "피부상처치유,화상",
   "ingredient": "항상제복합",
   "base_price": 2090,
   "discount_condition": "120개",
@@ -231,7 +231,7 @@
  {
   "pharmacy": "녹십자몰(premion.gccorp.com)",
   "name": "아시클로버",
-  "symtom": "입술포진,항바이러스",
+  "symptom": "입술포진,항바이러스",
   "ingredient": "아시클로버",
   "base_price": 1650,
   "discount_condition": "180개",
@@ -241,7 +241,7 @@
  {
   "pharmacy": "녹십자몰(premion.gccorp.com)",
   "name": "후시메드",
-  "symtom": "피부상처,화상,항균",
+  "symptom": "피부상처,화상,항균",
   "ingredient": "후시딘산",
   "base_price": 2420,
   "discount_condition": "160개",
@@ -251,7 +251,7 @@
  {
   "pharmacy": "녹십자몰(premion.gccorp.com)",
   "name": "페리덱스",
-  "symtom": "구내염",
+  "symptom": "구내염",
   "ingredient": "덱사메타손",
   "unit": "6g",
   "base_price": 2640,
@@ -262,7 +262,7 @@
  {
   "pharmacy": "동아제약몰(dapmall.com)",
   "name": "마그랑비피돌렉스",
-  "symtom": "비타민,마그네슘",
+  "symptom": "비타민,마그네슘",
   "ingredient": "마그네슘",
   "unit": "10정",
   "base_price": 3630,
@@ -273,7 +273,7 @@
  {
   "pharmacy": "동아제약몰(dapmall.com)",
   "name": "스카폴라",
-  "symtom": "근육통근이완",
+  "symptom": "근육통근이완",
   "ingredient": "클로르조사존",
   "unit": "10정",
   "base_price": 1650,
@@ -284,7 +284,7 @@
  {
   "pharmacy": "동아제약몰(dapmall.com)",
   "name": "이브원큐S",
-  "symtom": "소염해열진통",
+  "symptom": "소염해열진통",
   "ingredient": "IBU 200mg",
   "unit": "10정",
   "base_price": 1430,
@@ -295,7 +295,7 @@
  {
   "pharmacy": "동아제약몰(dapmall.com)",
   "name": "이브400원큐S",
-  "symtom": "소염해열진통",
+  "symptom": "소염해열진통",
   "ingredient": "IBU 400mg",
   "unit": "10정",
   "base_price": 1430,
@@ -306,7 +306,7 @@
  {
   "pharmacy": "동아제약몰(dapmall.com)",
   "name": "덱스원큐S",
-  "symtom": "소염해열진통",
+  "symptom": "소염해열진통",
   "ingredient": "Dexi 300mg",
   "unit": "10정",
   "base_price": 1430,
@@ -317,7 +317,7 @@
  {
   "pharmacy": "동아제약몰(dapmall.com)",
   "name": "나프원큐S",
-  "symtom": "소염진통",
+  "symptom": "소염진통",
   "ingredient": "Naproxen 250mg",
   "unit": "10정",
   "base_price": 1430,
@@ -328,7 +328,7 @@
  {
   "pharmacy": "중외제약몰(jwpmall.co.kr)",
   "name": "페인엔젤프로",
-  "symtom": "소염해열진통",
+  "symptom": "소염해열진통",
   "ingredient": "Dexi 300mg",
   "unit": "10정",
   "base_price": 1100,
@@ -339,7 +339,7 @@
  {
   "pharmacy": "중외제약몰(jwpmall.co.kr)",
   "name": "페인엔젤센",
-  "symtom": "소염진통",
+  "symptom": "소염진통",
   "ingredient": "Naproxen",
   "unit": "10정",
   "base_price": 1100,
@@ -350,7 +350,7 @@
  {
   "pharmacy": "동아제약몰(dapmall.com)",
   "name": "카필러스 폼",
-  "symtom": "탈모",
+  "symptom": "탈모",
   "ingredient": "미녹시딜",
   "base_price": 14300,
   "discount_condition": "100개",
@@ -360,7 +360,7 @@
  {
   "pharmacy": "동아제약몰(dapmall.com)",
   "name": "카필러스 캡슐",
-  "symtom": "탈모",
+  "symptom": "탈모",
   "ingredient": "미녹시딜",
   "base_price": 33000,
   "discount_condition": "100개",
@@ -370,7 +370,7 @@
  {
   "pharmacy": "동아제약몰(dapmall.com)",
   "name": "아이오쿨 수 0.5%",
-  "symtom": "안약",
+  "symptom": "안약",
   "ingredient": "CMC-Na",
   "unit": "0.45ml 30개",
   "base_price": 4950,
@@ -381,7 +381,7 @@
  {
   "pharmacy": "동아제약몰(dapmall.com)",
   "name": "아이오쿨 수 1.0%",
-  "symtom": "안약",
+  "symptom": "안약",
   "ingredient": "CMC-Na",
   "unit": "0.50ml 30개",
   "base_price": 5500,
@@ -392,7 +392,7 @@
  {
   "pharmacy": "동아제약몰(dapmall.com)",
   "name": "아이오쿨 프로",
-  "symtom": "안약",
+  "symptom": "안약",
   "ingredient": "Tre",
   "unit": "0.50ml 60개",
   "base_price": 9900,
@@ -403,7 +403,7 @@
  {
   "pharmacy": "동아제약몰(dapmall.com)",
   "name": "아이오쿨 리뉴PDRN",
-  "symtom": "안약",
+  "symptom": "안약",
   "ingredient": "PDRN",
   "unit": "0.50ml 30개",
   "base_price": 7920,
@@ -414,7 +414,7 @@
  {
   "pharmacy": "동아제약몰(dapmall.com)",
   "name": "챔프시럽(아세트)",
-  "symtom": "해열진통",
+  "symptom": "해열진통",
   "ingredient": "AAP",
   "base_price": 3850,
   "discount_condition": "5종 합100개",
@@ -424,7 +424,7 @@
  {
   "pharmacy": "동아제약몰(dapmall.com)",
   "name": "챔프이부펜",
-  "symtom": "소염해열진통",
+  "symptom": "소염해열진통",
   "ingredient": "IBU",
   "base_price": 3850,
   "discount_condition": "5종 합100개",
@@ -434,7 +434,7 @@
  {
   "pharmacy": "동아제약몰(dapmall.com)",
   "name": "챔프콜드펜",
-  "symtom": "어린이종합감기",
+  "symptom": "어린이종합감기",
   "ingredient": "AAP",
   "base_price": 3850,
   "discount_condition": "5종 합100개",
@@ -444,7 +444,7 @@
  {
   "pharmacy": "동아제약몰(dapmall.com)",
   "name": "쳄프노즈",
-  "symtom": "어린이코감기",
+  "symptom": "어린이코감기",
   "ingredient": "AAP",
   "base_price": 2310,
   "discount_condition": "5종 합100개",
@@ -454,7 +454,7 @@
  {
   "pharmacy": "동아제약몰(dapmall.com)",
   "name": "챔프코프",
-  "symtom": "어린이목감기",
+  "symptom": "어린이목감기",
   "ingredient": "AAP",
   "base_price": 2310,
   "discount_condition": "5종 합100개",
@@ -464,7 +464,7 @@
  {
   "pharmacy": "동아제약몰(dapmall.com)",
   "name": "판텍종합감기",
-  "symtom": "종합감기",
+  "symptom": "종합감기",
   "ingredient": "AAP",
   "unit": "10정",
   "base_price": 1100,
@@ -475,7 +475,7 @@
  {
   "pharmacy": "동아제약몰(dapmall.com)",
   "name": "판텍코감기",
-  "symtom": "코감기",
+  "symptom": "코감기",
   "ingredient": "AAP",
   "unit": "10정",
   "base_price": 1100,
@@ -486,7 +486,7 @@
  {
   "pharmacy": "동아제약몰(dapmall.com)",
   "name": "판텍목감기",
-  "symtom": "목감기,인후통,기침,가래",
+  "symptom": "목감기,인후통,기침,가래",
   "ingredient": "AAP",
   "unit": "10정",
   "base_price": 1100,
@@ -497,7 +497,7 @@
  {
   "pharmacy": "중외제약몰(jwpmall.co.kr)",
   "name": "에스로반연고",
-  "symtom": "피부상처,항균성",
+  "symptom": "피부상처,항균성",
   "ingredient": "무피로신",
   "unit": "10g",
   "base_price": 2200,
@@ -508,7 +508,7 @@
  {
   "pharmacy": "중외제약몰(jwpmall.co.kr)",
   "name": "리시브골드",
-  "symtom": "간기능개선",
+  "symptom": "간기능개선",
   "ingredient": "밀크시슬열매(실리마린 함유)",
   "unit": "60정 2개",
   "base_price": 22000,
@@ -519,7 +519,7 @@
  {
   "pharmacy": "중외제약몰(jwpmall.co.kr)",
   "name": "리시브골드",
-  "symtom": "간기능개선",
+  "symptom": "간기능개선",
   "ingredient": "밀크시슬열매(실리마린 함유)",
   "unit": "60정 2개",
   "base_price": 22000,
@@ -530,7 +530,7 @@
  {
   "pharmacy": "일동제약몰(saeropharm.com)",
   "name": "오트리빈멘톨",
-  "symtom": "코감기,알러지성 비염",
+  "symptom": "코감기,알러지성 비염",
   "ingredient": "자일로메타졸린",
   "unit": "10ml",
   "base_price": 8161,
@@ -542,7 +542,7 @@
  {
   "pharmacy": "일동제약몰(saeropharm.com)",
   "name": "오트리빈에스",
-  "symtom": "코감기,알러지성 비염",
+  "symptom": "코감기,알러지성 비염",
   "ingredient": "자일로메타졸린",
   "unit": "10ml",
   "base_price": 8966,
@@ -554,7 +554,7 @@
  {
   "pharmacy": "일동제약몰(saeropharm.com)",
   "name": "캐롤에프정",
-  "symtom": "소염해열진통",
+  "symptom": "소염해열진통",
   "ingredient": "IBU 200mg (이부프로펜 아르기닌)",
   "unit": "10정",
   "base_price": 1591,
@@ -566,7 +566,7 @@
  {
   "pharmacy": "일동제약몰(saeropharm.com)",
   "name": "케롤엔연질(조건2)",
-  "symtom": "소염진통",
+  "symptom": "소염진통",
   "ingredient": "Naproxen 250mg",
   "unit": "10정",
   "base_price": 1491,
@@ -578,7 +578,7 @@
  {
   "pharmacy": "일동제약몰(saeropharm.com)",
   "name": "케롤엔연질(조건1)",
-  "symtom": "소염진통",
+  "symptom": "소염진통",
   "ingredient": "Naproxen 250mg",
   "unit": "10정",
   "base_price": 1491,
@@ -590,7 +590,7 @@
  {
   "pharmacy": "일동제약몰(saeropharm.com)",
   "name": "케롤디연질(조건1)",
-  "symtom": "소염해열진통",
+  "symptom": "소염해열진통",
   "ingredient": "Dexi 300mg",
   "unit": "10정",
   "base_price": 1491,
@@ -602,7 +602,7 @@
  {
   "pharmacy": "일동제약몰(saeropharm.com)",
   "name": "케롤디연질(조건2)",
-  "symtom": "소염해열진통",
+  "symptom": "소염해열진통",
   "ingredient": "Dexi 300mg",
   "unit": "10정",
   "base_price": 1491,
@@ -614,7 +614,7 @@
  {
   "pharmacy": "일동제약몰(saeropharm.com)",
   "name": "케롤비콜드",
-  "symtom": "종합감기",
+  "symptom": "종합감기",
   "ingredient": "APP 180, CPM1.25, DXM 8, PSE 15, 구아이페네신 20.84, DL-MHE 12.5mg, 리보플라민 2mg",
   "unit": "10정",
   "base_price": 1250,
@@ -626,7 +626,7 @@
  {
   "pharmacy": "일동제약몰(saeropharm.com)",
   "name": "케롤비코프",
-  "symtom": "목감기,인후통,기침,가래",
+  "symptom": "목감기,인후통,기침,가래",
   "unit": "10정",
   "base_price": 1250,
   "discount_condition": "20개",
@@ -739,12 +739,12 @@
  {
   "pharmacy": "대웅제약(shop.co.kr)",
   "name": "이지클리어",
-  "symtom": "여드름,뾰루지"
+  "symptom": "여드름,뾰루지"
  },
  {
   "pharmacy": "대웅제약(shop.co.kr)",
   "name": "코메키나스프레이",
-  "symtom": "코감기,알러지성 비염",
+  "symptom": "코감기,알러지성 비염",
   "ingredient": "옥시메타졸린염산염 , CPM , 글리시리진산이칼륨 "
  },
  {
@@ -824,7 +824,7 @@
  {
   "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
   "name": "에너리버",
-  "symtom": "간기능개선",
+  "symptom": "간기능개선",
   "ingredient": "밀크시슬열매(실리마린 함유)",
   "unit": "60정 2개",
   "base_price": 24200,
@@ -1168,7 +1168,7 @@
  {
   "pharmacy": "종근당(플랫팜,platpharm.co.kr)",
   "name": "액티리버모닝",
-  "symtom": "간기능개선",
+  "symptom": "간기능개선",
   "ingredient": "밀크시슬열매(실리마린 함유)",
   "unit": "60정 2개",
   "base_price": 23000,
@@ -1179,7 +1179,7 @@
  {
   "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
   "name": "맥시부펜콜드연질",
-  "symtom": "종합감기",
+  "symptom": "종합감기",
   "ingredient": "IBU",
   "unit": "12정",
   "base_price": 1360,
@@ -1190,7 +1190,7 @@
  {
   "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
   "name": "맥시부펜노즈연질",
-  "symtom": "코감기",
+  "symptom": "코감기",
   "unit": "12정",
   "base_price": 1360,
   "discount_condition": "3종합산 510개",
@@ -1200,7 +1200,7 @@
  {
   "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
   "name": "맥시부펜코프연질",
-  "symtom": "목감기",
+  "symptom": "목감기",
   "unit": "12정",
   "base_price": 1360,
   "discount_condition": "3종합산 510개",
@@ -1210,7 +1210,7 @@
  {
   "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
   "name": "무조날맥스레일라카",
-  "symtom": "손발톱무좀",
+  "symptom": "손발톱무좀",
   "ingredient": "테르비나핀"
  },
  {
@@ -1281,7 +1281,7 @@
  {
   "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
   "name": "실리만연질캡슐140(밀크시슬엑스)(포) 175mg",
-  "symtom": 1
+  "symptom": 1
  },
  {
   "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
@@ -1430,7 +1430,7 @@
  {
   "pharmacy": "일양약품(일양직거래)",
   "name": "속콜코프엘",
-  "symtom": "목감기,기침,가래",
+  "symptom": "목감기,기침,가래",
   "ingredient": "DXM 10 ,Nos 10, 트리메토퀴놀 1, 구아이페네신 50, CPM 2",
   "unit": "10정",
   "base_price": 1200,
