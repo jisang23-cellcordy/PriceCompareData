@@ -1,670 +1,1784 @@
 [
  {
-  "판매처": "동아제약몰(dapmall.com)",
-  "제품명": "판텍종합감기",
-  "주효능": "종합감기",
-  "주성분": "AAP",
-  "포장단위": "10정",
-  "기본가격": 1100,
-  "할인조건": "3종 합산 1000개",
-  "할인율": 0.37,
-  "할인가격": 693
+  "pharmacy": "동화약품몰(dw1897.co.kr)",
+  "name": "파워콜코프",
+  "symtom": "목감기,인후통,기침,가래",
+  "ingredient": "AAP",
+  "unit": "10정",
+  "base_price": 1267,
+  "discount_condition": "5박스(50개)",
+  "discount_rate": 0.52,
+  "discount_price": 600
  },
  {
-  "판매처": "동아제약몰(dapmall.com)",
-  "제품명": "판텍코감기",
-  "주효능": "코감기",
-  "주성분": "AAP",
-  "포장단위": "10정",
-  "기본가격": 1100,
-  "할인조건": "3종 합산 1000개",
-  "할인율": 0.37,
-  "할인가격": 693
+  "pharmacy": "동화약품몰(dw1897.co.kr)",
+  "name": "파워콜노즈",
+  "symtom": "코감기",
+  "ingredient": "AAP",
+  "unit": "10정",
+  "base_price": 1267,
+  "discount_condition": "5박스(50개)",
+  "discount_rate": 0.4,
+  "discount_price": 770
  },
  {
-  "판매처": "동아제약몰(dapmall.com)",
-  "제품명": "판텍목감기",
-  "주효능": "목감기,인후통,기침,가래",
-  "주성분": "AAP",
-  "포장단위": "10정",
-  "기본가격": 1100,
-  "할인조건": "3종 합산 1000개",
-  "할인율": 0.37,
-  "할인가격": 693
+  "pharmacy": "동화약품몰(dw1897.co.kr)",
+  "name": "파워콜종합",
+  "symtom": "종합감기",
+  "ingredient": "AAP",
+  "unit": "10정",
+  "base_price": 1267,
+  "discount_condition": "5박스(50개)",
+  "discount_rate": 0.52,
+  "discount_price": 600
  },
  {
-  "판매처": "동화약품몰(dw1897.co.kr)",
-  "제품명": "파워콜코프",
-  "주효능": "목감기,인후통,기침,가래",
-  "주성분": "AAP",
-  "포장단위": "10정",
-  "기본가격": 1267,
-  "할인조건": "5박스(50개)",
-  "할인율": 0.52,
-  "할인가격": 600
+  "pharmacy": "동화약품몰(dw1897.co.kr)",
+  "name": "파워콜에스종합",
+  "symtom": "종합감기",
+  "ingredient": "AAP",
+  "unit": "10정",
+  "base_price": 1267,
+  "discount_condition": "5박스(50개)",
+  "discount_rate": 0.4,
+  "discount_price": 770
  },
  {
-  "판매처": "동화약품몰(dw1897.co.kr)",
-  "제품명": "파워콜노즈",
-  "주효능": "코감기",
-  "주성분": "AAP",
-  "포장단위": "10정",
-  "기본가격": 1267,
-  "할인조건": "5박스(50개)",
-  "할인율": 0.4,
-  "할인가격": 770
+  "pharmacy": "동화약품몰(dw1897.co.kr)",
+  "name": "플로라딘연질",
+  "symtom": "알러지(2rd AH)",
+  "ingredient": "LORA",
+  "unit": "10정",
+  "base_price": 1267,
+  "discount_condition": "20박스(200개)",
+  "discount_rate": 0.43,
+  "discount_price": 717
  },
  {
-  "판매처": "동화약품몰(dw1897.co.kr)",
-  "제품명": "파워콜종합",
-  "주효능": "종합감기",
-  "주성분": "AAP",
-  "포장단위": "10정",
-  "기본가격": 1267,
-  "할인조건": "5박스(50개)",
-  "할인율": 0.52,
-  "할인가격": 600
+  "pharmacy": "동화약품몰(dw1897.co.kr)",
+  "name": "화이투벤큐플러스코프",
+  "symtom": "목감기",
+  "ingredient": "AAP,구아이페네신,DXM,Nos,트리프롤리딘",
+  "unit": "10정",
+  "base_price": 1430,
+  "discount_condition": "150개",
+  "discount_rate": 0.23,
+  "discount_price": 1100
  },
  {
-  "판매처": "동화약품몰(dw1897.co.kr)",
-  "제품명": "파워콜에스종합",
-  "주효능": "종합감기",
-  "주성분": "AAP",
-  "포장단위": "10정",
-  "기본가격": 1267,
-  "할인조건": "5박스(50개)",
-  "할인율": 0.4,
-  "할인가격": 770
+  "pharmacy": "동화약품몰(dw1897.co.kr)",
+  "name": "화이투벤큐플러스",
+  "symtom": "종합감기",
+  "unit": "10정",
+  "base_price": 1430,
+  "discount_condition": "150개",
+  "discount_rate": 0.23,
+  "discount_price": 1100
  },
  {
-  "판매처": "녹십자몰(premion.gccorp.com)",
-  "제품명": "알러젯연질",
-  "주효능": "알러지(2rd AH)",
-  "주성분": "CTZ",
-  "포장단위": "10정",
-  "기본가격": 1430,
-  "할인조건": "90개",
-  "할인율": 0.23,
-  "할인가격": 1100
+  "pharmacy": "동화약품몰(dw1897.co.kr)",
+  "name": "화이투벤멘톨나잘 0.1%",
+  "symtom": "코감기,알러지성 비염",
+  "ingredient": "자일로메타졸린",
+  "unit": "10ml",
+  "base_price": 6996,
+  "discount_condition": "8박스(80개)",
+  "discount_rate": 0.21,
+  "discount_price": 5500
  },
  {
-  "판매처": "동화약품몰(dw1897.co.kr)",
-  "제품명": "플로라딘연질",
-  "주효능": "알러지(2rd AH)",
-  "주성분": "LORA",
-  "포장단위": "10정",
-  "기본가격": 1267,
-  "할인조건": "20박스(200개)",
-  "할인율": 0.43,
-  "할인가격": 717
+  "pharmacy": "동화약품몰(dw1897.co.kr)",
+  "name": "화이투벤나잘 0.1%",
+  "symtom": "코감기,알러지성 비염",
+  "ingredient": "자일로메타졸린",
+  "unit": "10ml",
+  "base_price": 6996,
+  "discount_condition": "8박스(80개)",
+  "discount_rate": 0.21,
+  "discount_price": 5500
  },
  {
-  "판매처": "녹십자몰(premion.gccorp.com)",
-  "제품명": "쿨드림연질",
-  "주효능": "수면유도제",
-  "주성분": "DHM",
-  "포장단위": "10정",
-  "기본가격": 1210,
-  "할인조건": "90개",
-  "할인율": 0.09,
-  "할인가격": 1100
+  "pharmacy": "동화약품몰(dw1897.co.kr)",
+  "name": "화이투벤나잘 0.05%(어린이)",
+  "symtom": "코감기,알러지성 비염",
+  "ingredient": "자일로메타졸린",
+  "unit": "10ml",
+  "base_price": 6996,
+  "discount_condition": "8박스(80개)",
+  "discount_rate": 0.21,
+  "discount_price": 5500
  },
  {
-  "판매처": "녹십자몰(premion.gccorp.com)",
-  "제품명": "탁센덱시",
-  "주효능": "소염해열진통",
-  "주성분": "Dexi 300mg",
-  "포장단위": "10정",
-  "기본가격": 1100,
-  "할인조건": "120개",
-  "할인율": 0.18,
-  "할인가격": 900
+  "pharmacy": "녹십자몰(premion.gccorp.com)",
+  "name": "알러젯연질",
+  "symtom": "알러지(2rd AH)",
+  "ingredient": "CTZ",
+  "unit": "10정",
+  "base_price": 1430,
+  "discount_condition": "90개",
+  "discount_rate": 0.23,
+  "discount_price": 1100
  },
  {
-  "판매처": "녹십자몰(premion.gccorp.com)",
-  "제품명": "탁센",
-  "주효능": "소염진통",
-  "주성분": "Naproxen 250mg",
-  "포장단위": "10정",
-  "기본가격": 1650,
-  "할인조건": "600개",
-  "할인율": 0.17,
-  "할인가격": 1373
+  "pharmacy": "녹십자몰(premion.gccorp.com)",
+  "name": "쿨드림연질",
+  "symtom": "수면유도제",
+  "ingredient": "DHM",
+  "unit": "10정",
+  "base_price": 1210,
+  "discount_condition": "90개",
+  "discount_rate": 0.09,
+  "discount_price": 1100
  },
  {
-  "판매처": "녹십자몰(premion.gccorp.com)",
-  "제품명": "탁센레이디",
-  "주효능": "소염진통생리통",
-  "주성분": "Dexi 300mg",
-  "포장단위": "10정",
-  "기본가격": 1650,
-  "할인조건": "240개",
-  "할인율": 0.27,
-  "할인가격": 1210
+  "pharmacy": "녹십자몰(premion.gccorp.com)",
+  "name": "탁센덱시",
+  "symtom": "소염해열진통",
+  "ingredient": "Dexi 300mg",
+  "unit": "10정",
+  "base_price": 1100,
+  "discount_condition": "120개",
+  "discount_rate": 0.18,
+  "discount_price": 900
  },
  {
-  "판매처": "동아제약몰(dapmall.com)",
-  "제품명": "마그랑비피돌렉스",
-  "주효능": "비타민,마그네슘",
-  "주성분": "마그네슘",
-  "포장단위": "10정",
-  "기본가격": 3630,
-  "할인조건": "6종 합산 240개",
-  "할인율": 0.3,
-  "할인가격": 2530
+  "pharmacy": "녹십자몰(premion.gccorp.com)",
+  "name": "탁센",
+  "symtom": "소염진통",
+  "ingredient": "Naproxen 250mg",
+  "unit": "10정",
+  "base_price": 1650,
+  "discount_condition": "600개",
+  "discount_rate": 0.17,
+  "discount_price": 1373
  },
  {
-  "판매처": "동아제약몰(dapmall.com)",
-  "제품명": "스카폴라",
-  "주효능": "근육통근이완",
-  "주성분": "클로르조사존",
-  "포장단위": "10정",
-  "기본가격": 1650,
-  "할인조건": "6종 합산 240개",
-  "할인율": 0.4,
-  "할인가격": 990
+  "pharmacy": "녹십자몰(premion.gccorp.com)",
+  "name": "탁센레이디",
+  "symtom": "소염진통생리통",
+  "ingredient": "Dexi 300mg",
+  "unit": "10정",
+  "base_price": 1650,
+  "discount_condition": "240개",
+  "discount_rate": 0.27,
+  "discount_price": 1210
  },
  {
-  "판매처": "동아제약몰(dapmall.com)",
-  "제품명": "이브원큐S",
-  "주효능": "소염해열진통",
-  "주성분": "IBU 200mg",
-  "포장단위": "10정",
-  "기본가격": 1430,
-  "할인조건": "6종 합산 240개",
-  "할인율": 0.46,
-  "할인가격": 770
+  "pharmacy": "녹십자몰(premion.gccorp.com)",
+  "name": "실리웰골드(조건2)",
+  "symtom": "간기능개선",
+  "ingredient": "밀크시슬열매(실리마린 함유)",
+  "unit": "60정 2개",
+  "base_price": 25000,
+  "discount_condition": "30개",
+  "discount_rate": 0.36,
+  "discount_price": 16000
  },
  {
-  "판매처": "동아제약몰(dapmall.com)",
-  "제품명": "이브400원큐S",
-  "주효능": "소염해열진통",
-  "주성분": "IBU 400mg",
-  "포장단위": "10정",
-  "기본가격": 1430,
-  "할인조건": "6종 합산 240개",
-  "할인율": 0.46,
-  "할인가격": 770
+  "pharmacy": "녹십자몰(premion.gccorp.com)",
+  "name": "실리웰골드(조건1)",
+  "symtom": "간기능개선",
+  "ingredient": "밀크시슬열매(실리마린 함유)",
+  "unit": "60정 2개",
+  "base_price": 25000,
+  "discount_condition": "20개",
+  "discount_rate": 0.24,
+  "discount_price": 19000
  },
  {
-  "판매처": "동아제약몰(dapmall.com)",
-  "제품명": "덱스원큐S",
-  "주효능": "소염해열진통",
-  "주성분": "Dexi 300mg",
-  "포장단위": "10정",
-  "기본가격": 1430,
-  "할인조건": "6종 합산 240개",
-  "할인율": 0.38,
-  "할인가격": 880
+  "pharmacy": "녹십자몰(premion.gccorp.com)",
+  "name": "그린노즈플러스",
+  "symtom": "코감기,알러지",
+  "ingredient": "벨라돈나 0.2, 카페인 20, CPM4",
+  "unit": "10정",
+  "base_price": 1540,
+  "discount_condition": "180개",
+  "discount_rate": 0.22,
+  "discount_price": 1199
  },
  {
-  "판매처": "동아제약몰(dapmall.com)",
-  "제품명": "나프원큐S",
-  "주효능": "소염진통",
-  "주성분": "Naproxen 250mg",
-  "포장단위": "10정",
-  "기본가격": 1430,
-  "할인조건": "6종 합산 240개",
-  "할인율": 0.38,
-  "할인가격": 880
+  "pharmacy": "녹십자몰(premion.gccorp.com)",
+  "name": "노바손 15g",
+  "symtom": "광범위피부질환,습진,가려움",
+  "ingredient": "GEN(겐타마이신),BT(베타메타손)",
+  "unit": "15g",
+  "base_price": 1870,
+  "discount_condition": "120개",
+  "discount_rate": 0.24,
+  "discount_price": 1430
  },
  {
-  "판매처": "중외제약몰(jwpmall.co.kr)",
-  "제품명": "페인엔젤프로",
-  "주효능": "소염해열진통",
-  "주성분": "Dexi 300mg",
-  "포장단위": "10정",
-  "기본가격": 1100,
-  "할인조건": "300개",
-  "할인율": 0.27,
-  "할인가격": 800
+  "pharmacy": "녹십자몰(premion.gccorp.com)",
+  "name": "노바손 30g",
+  "symtom": "광범위피부질환,습진,가려움",
+  "ingredient": "GEN(겐타마이신),BT(베타메타손)",
+  "unit": "30g",
+  "base_price": 2860,
+  "discount_condition": "120개",
+  "discount_rate": 0.23,
+  "discount_price": 2200
  },
  {
-  "판매처": "중외제약몰(jwpmall.co.kr)",
-  "제품명": "페인엔젤센",
-  "주효능": "소염진통",
-  "주성분": "Naproxen",
-  "포장단위": "10정",
-  "기본가격": 1100,
-  "할인조건": "300개",
-  "할인율": 0.27,
-  "할인가격": 800
+  "pharmacy": "녹십자몰(premion.gccorp.com)",
+  "name": "바스포",
+  "symtom": "피부상처치유,화상",
+  "ingredient": "항상제복합",
+  "base_price": 2090,
+  "discount_condition": "120개",
+  "discount_rate": 0.21,
+  "discount_price": 1650
  },
  {
-  "판매처": "동아제약몰(dapmall.com)",
-  "제품명": "카필러스 폼",
-  "주효능": "탈모",
-  "주성분": "미녹시딜",
-  "기본가격": 14300,
-  "할인조건": "100개",
-  "할인율": 0.23,
-  "할인가격": 11000
+  "pharmacy": "녹십자몰(premion.gccorp.com)",
+  "name": "아시클로버",
+  "symtom": "입술포진,항바이러스",
+  "ingredient": "아시클로버",
+  "base_price": 1650,
+  "discount_condition": "180개",
+  "discount_rate": 0.3,
+  "discount_price": 1155
  },
  {
-  "판매처": "동아제약몰(dapmall.com)",
-  "제품명": "카필러스 캡슐",
-  "주효능": "탈모",
-  "주성분": "미녹시딜",
-  "기본가격": 33000,
-  "할인조건": "100개",
-  "할인율": 0.4,
-  "할인가격": 19800
+  "pharmacy": "녹십자몰(premion.gccorp.com)",
+  "name": "후시메드",
+  "symtom": "피부상처,화상,항균",
+  "ingredient": "후시딘산",
+  "base_price": 2420,
+  "discount_condition": "160개",
+  "discount_rate": 0.18,
+  "discount_price": 1980
  },
  {
-  "판매처": "동아제약몰(dapmall.com)",
-  "제품명": "아이오쿨 수 0.5%",
-  "주효능": "안약",
-  "주성분": "CMC-Na",
-  "포장단위": "0.45ml 30개",
-  "기본가격": 4950,
-  "할인조건": "4종 합산50개",
-  "할인율": 0.15,
-  "할인가격": 4208
+  "pharmacy": "녹십자몰(premion.gccorp.com)",
+  "name": "페리덱스",
+  "symtom": "구내염",
+  "ingredient": "덱사메타손",
+  "unit": "6g",
+  "base_price": 2640,
+  "discount_condition": "120개",
+  "discount_rate": 0.12,
+  "discount_price": 2310
  },
  {
-  "판매처": "동아제약몰(dapmall.com)",
-  "제품명": "아이오쿨 수 1.0%",
-  "주효능": "안약",
-  "주성분": "CMC-Na",
-  "포장단위": "0.50ml 30개",
-  "기본가격": 5500,
-  "할인조건": "4종 합산50개",
-  "할인율": 0.36,
-  "할인가격": 3520
+  "pharmacy": "동아제약몰(dapmall.com)",
+  "name": "마그랑비피돌렉스",
+  "symtom": "비타민,마그네슘",
+  "ingredient": "마그네슘",
+  "unit": "10정",
+  "base_price": 3630,
+  "discount_condition": "6종 합산 240개",
+  "discount_rate": 0.3,
+  "discount_price": 2530
  },
  {
-  "판매처": "동아제약몰(dapmall.com)",
-  "제품명": "아이오쿨 프로",
-  "주효능": "안약",
-  "주성분": "Tre",
-  "포장단위": "0.50ml 60개",
-  "기본가격": 9900,
-  "할인조건": "4종 합산50개",
-  "할인율": 0.2,
-  "할인가격": 7920
+  "pharmacy": "동아제약몰(dapmall.com)",
+  "name": "스카폴라",
+  "symtom": "근육통근이완",
+  "ingredient": "클로르조사존",
+  "unit": "10정",
+  "base_price": 1650,
+  "discount_condition": "6종 합산 240개",
+  "discount_rate": 0.4,
+  "discount_price": 990
  },
  {
-  "판매처": "동아제약몰(dapmall.com)",
-  "제품명": "아이오쿨 리뉴PDRN",
-  "주효능": "안약",
-  "주성분": "PDRN",
-  "포장단위": "0.50ml 30개",
-  "기본가격": 7920,
-  "할인조건": "4종 합산50개",
-  "할인율": 0.25,
-  "할인가격": 5940
+  "pharmacy": "동아제약몰(dapmall.com)",
+  "name": "이브원큐S",
+  "symtom": "소염해열진통",
+  "ingredient": "IBU 200mg",
+  "unit": "10정",
+  "base_price": 1430,
+  "discount_condition": "6종 합산 240개",
+  "discount_rate": 0.46,
+  "discount_price": 770
  },
  {
-  "판매처": "동아제약몰(dapmall.com)",
-  "제품명": "챔프시럽(아세트)",
-  "주효능": "해열진통",
-  "주성분": "AAP",
-  "기본가격": 3850,
-  "할인조건": "5종 합100개",
-  "할인율": 0.23,
-  "할인가격": 2970
+  "pharmacy": "동아제약몰(dapmall.com)",
+  "name": "이브400원큐S",
+  "symtom": "소염해열진통",
+  "ingredient": "IBU 400mg",
+  "unit": "10정",
+  "base_price": 1430,
+  "discount_condition": "6종 합산 240개",
+  "discount_rate": 0.46,
+  "discount_price": 770
  },
  {
-  "판매처": "동아제약몰(dapmall.com)",
-  "제품명": "챔프이부펜",
-  "주효능": "소염해열진통",
-  "주성분": "IBU",
-  "기본가격": 3850,
-  "할인조건": "5종 합100개",
-  "할인율": 0.23,
-  "할인가격": 2970
+  "pharmacy": "동아제약몰(dapmall.com)",
+  "name": "덱스원큐S",
+  "symtom": "소염해열진통",
+  "ingredient": "Dexi 300mg",
+  "unit": "10정",
+  "base_price": 1430,
+  "discount_condition": "6종 합산 240개",
+  "discount_rate": 0.38,
+  "discount_price": 880
  },
  {
-  "판매처": "동아제약몰(dapmall.com)",
-  "제품명": "챔프콜드펜",
-  "주효능": "어린이종합감기",
-  "주성분": "AAP",
-  "기본가격": 3850,
-  "할인조건": "5종 합100개",
-  "할인율": 0.23,
-  "할인가격": 2970
+  "pharmacy": "동아제약몰(dapmall.com)",
+  "name": "나프원큐S",
+  "symtom": "소염진통",
+  "ingredient": "Naproxen 250mg",
+  "unit": "10정",
+  "base_price": 1430,
+  "discount_condition": "6종 합산 240개",
+  "discount_rate": 0.38,
+  "discount_price": 880
  },
  {
-  "판매처": "동아제약몰(dapmall.com)",
-  "제품명": "쳄프노즈",
-  "주효능": "어린이코감기",
-  "주성분": "AAP",
-  "기본가격": 2310,
-  "할인조건": "5종 합100개",
-  "할인율": 0.14,
-  "할인가격": 1980
+  "pharmacy": "중외제약몰(jwpmall.co.kr)",
+  "name": "페인엔젤프로",
+  "symtom": "소염해열진통",
+  "ingredient": "Dexi 300mg",
+  "unit": "10정",
+  "base_price": 1100,
+  "discount_condition": "300개",
+  "discount_rate": 0.27,
+  "discount_price": 800
  },
  {
-  "판매처": "동아제약몰(dapmall.com)",
-  "제품명": "챔프코프",
-  "주효능": "어린이목감기",
-  "주성분": "AAP",
-  "기본가격": 2310,
-  "할인조건": "5종 합100개",
-  "할인율": 0.14,
-  "할인가격": 1980
+  "pharmacy": "중외제약몰(jwpmall.co.kr)",
+  "name": "페인엔젤센",
+  "symtom": "소염진통",
+  "ingredient": "Naproxen",
+  "unit": "10정",
+  "base_price": 1100,
+  "discount_condition": "300개",
+  "discount_rate": 0.27,
+  "discount_price": 800
  },
  {
-  "판매처": "녹십자몰(premion.gccorp.com)",
-  "제품명": "실리웰골드",
-  "주효능": "간기능개선",
-  "주성분": "밀크시슬열매(실리마린 함유)",
-  "포장단위": "60정 2개",
-  "기본가격": 25000,
-  "할인조건": "30개",
-  "할인율": 0.36,
-  "할인가격": 16000
+  "pharmacy": "동아제약몰(dapmall.com)",
+  "name": "카필러스 폼",
+  "symtom": "탈모",
+  "ingredient": "미녹시딜",
+  "base_price": 14300,
+  "discount_condition": "100개",
+  "discount_rate": 0.23,
+  "discount_price": 11000
  },
  {
-  "판매처": "녹십자몰(premion.gccorp.com)",
-  "제품명": "실리웰골드",
-  "주효능": "간기능개선",
-  "주성분": "밀크시슬열매(실리마린 함유)",
-  "포장단위": "60정 2개",
-  "기본가격": 25000,
-  "할인조건": "20개",
-  "할인율": 0.24,
-  "할인가격": 19000
+  "pharmacy": "동아제약몰(dapmall.com)",
+  "name": "카필러스 캡슐",
+  "symtom": "탈모",
+  "ingredient": "미녹시딜",
+  "base_price": 33000,
+  "discount_condition": "100개",
+  "discount_rate": 0.4,
+  "discount_price": 19800
  },
  {
-  "판매처": "종근당(플랫팜)",
-  "제품명": "액티리버모닝",
-  "주효능": "간기능개선",
-  "주성분": "밀크시슬열매(실리마린 함유)",
-  "포장단위": "60정 2개",
-  "기본가격": 23000,
-  "할인조건": "20개",
-  "할인율": 0.13,
-  "할인가격": 20000
+  "pharmacy": "동아제약몰(dapmall.com)",
+  "name": "아이오쿨 수 0.5%",
+  "symtom": "안약",
+  "ingredient": "CMC-Na",
+  "unit": "0.45ml 30개",
+  "base_price": 4950,
+  "discount_condition": "4종 합산50개",
+  "discount_rate": 0.15,
+  "discount_price": 4208
  },
  {
-  "판매처": "유한양행(플랫팜)",
-  "제품명": "에너리버",
-  "주효능": "간기능개선",
-  "주성분": "밀크시슬열매(실리마린 함유)",
-  "포장단위": "60정 2개",
-  "기본가격": 24200,
-  "할인조건": "10개",
-  "할인율": 0.1,
-  "할인가격": 21780
+  "pharmacy": "동아제약몰(dapmall.com)",
+  "name": "아이오쿨 수 1.0%",
+  "symtom": "안약",
+  "ingredient": "CMC-Na",
+  "unit": "0.50ml 30개",
+  "base_price": 5500,
+  "discount_condition": "4종 합산50개",
+  "discount_rate": 0.36,
+  "discount_price": 3520
  },
  {
-  "판매처": "녹십자몰(premion.gccorp.com)",
-  "제품명": "노바손 15g",
-  "주효능": "광범위피부질환,습진,가려움",
-  "주성분": "GEN(겐타마이신),BT(베타메타손)",
-  "포장단위": "15g",
-  "기본가격": 1870,
-  "할인조건": "120개",
-  "할인율": 0.24,
-  "할인가격": 1430
+  "pharmacy": "동아제약몰(dapmall.com)",
+  "name": "아이오쿨 프로",
+  "symtom": "안약",
+  "ingredient": "Tre",
+  "unit": "0.50ml 60개",
+  "base_price": 9900,
+  "discount_condition": "4종 합산50개",
+  "discount_rate": 0.2,
+  "discount_price": 7920
  },
  {
-  "판매처": "녹십자몰(premion.gccorp.com)",
-  "제품명": "노바손 30g",
-  "주효능": "광범위피부질환,습진,가려움",
-  "주성분": "GEN(겐타마이신),BT(베타메타손)",
-  "포장단위": "30g",
-  "기본가격": 2860,
-  "할인조건": "120개",
-  "할인율": 0.23,
-  "할인가격": 2200
+  "pharmacy": "동아제약몰(dapmall.com)",
+  "name": "아이오쿨 리뉴PDRN",
+  "symtom": "안약",
+  "ingredient": "PDRN",
+  "unit": "0.50ml 30개",
+  "base_price": 7920,
+  "discount_condition": "4종 합산50개",
+  "discount_rate": 0.25,
+  "discount_price": 5940
  },
  {
-  "판매처": "녹십자몰(premion.gccorp.com)",
-  "제품명": "바스포",
-  "주효능": "피부상처치유,화상",
-  "주성분": "항상제복합",
-  "기본가격": 2090,
-  "할인조건": "120개",
-  "할인율": 0.21,
-  "할인가격": 1650
+  "pharmacy": "동아제약몰(dapmall.com)",
+  "name": "챔프시럽(아세트)",
+  "symtom": "해열진통",
+  "ingredient": "AAP",
+  "base_price": 3850,
+  "discount_condition": "5종 합100개",
+  "discount_rate": 0.23,
+  "discount_price": 2970
  },
  {
-  "판매처": "녹십자몰(premion.gccorp.com)",
-  "제품명": "아시클로버",
-  "주효능": "입술포진,항바이러스",
-  "주성분": "아시클로버",
-  "기본가격": 1650,
-  "할인조건": "180개",
-  "할인율": 0.3,
-  "할인가격": 1155
+  "pharmacy": "동아제약몰(dapmall.com)",
+  "name": "챔프이부펜",
+  "symtom": "소염해열진통",
+  "ingredient": "IBU",
+  "base_price": 3850,
+  "discount_condition": "5종 합100개",
+  "discount_rate": 0.23,
+  "discount_price": 2970
  },
  {
-  "판매처": "녹십자몰(premion.gccorp.com)",
-  "제품명": "후시메드",
-  "주효능": "피부상처,화상,항균",
-  "주성분": "후시딘산",
-  "기본가격": 2420,
-  "할인조건": "160개",
-  "할인율": 0.18,
-  "할인가격": 1980
+  "pharmacy": "동아제약몰(dapmall.com)",
+  "name": "챔프콜드펜",
+  "symtom": "어린이종합감기",
+  "ingredient": "AAP",
+  "base_price": 3850,
+  "discount_condition": "5종 합100개",
+  "discount_rate": 0.23,
+  "discount_price": 2970
  },
  {
-  "판매처": "녹십자몰(premion.gccorp.com)",
-  "제품명": "페리덱스",
-  "주효능": "구내염",
-  "주성분": "덱사메타손",
-  "포장단위": "6g",
-  "기본가격": 2640,
-  "할인조건": "120개",
-  "할인율": 0.12,
-  "할인가격": 2310
+  "pharmacy": "동아제약몰(dapmall.com)",
+  "name": "쳄프노즈",
+  "symtom": "어린이코감기",
+  "ingredient": "AAP",
+  "base_price": 2310,
+  "discount_condition": "5종 합100개",
+  "discount_rate": 0.14,
+  "discount_price": 1980
  },
  {
-  "판매처": "중외제약몰(jwpmall.co.kr)",
-  "제품명": "에스로반연고",
-  "주효능": "피부상처,항균성",
-  "주성분": "무피로신",
-  "포장단위": "10g",
-  "기본가격": 2200,
-  "할인조건": "120개",
-  "할인율": 0.09,
-  "할인가격": 1999
+  "pharmacy": "동아제약몰(dapmall.com)",
+  "name": "챔프코프",
+  "symtom": "어린이목감기",
+  "ingredient": "AAP",
+  "base_price": 2310,
+  "discount_condition": "5종 합100개",
+  "discount_rate": 0.14,
+  "discount_price": 1980
  },
  {
-  "판매처": "동화약품몰(dw1897.co.kr)",
-  "제품명": "화이투벤큐플러스코프",
-  "주효능": "목감기",
-  "주성분": "AAP,구아이페네신,DXM,Nos,트리프롤리딘",
-  "포장단위": "10정",
-  "기본가격": 1430,
-  "할인조건": "150개",
-  "할인율": 0.23,
-  "할인가격": 1100
+  "pharmacy": "동아제약몰(dapmall.com)",
+  "name": "판텍종합감기",
+  "symtom": "종합감기",
+  "ingredient": "AAP",
+  "unit": "10정",
+  "base_price": 1100,
+  "discount_condition": "3종 합산 1000개",
+  "discount_rate": 0.37,
+  "discount_price": 693
  },
  {
-  "판매처": "동화약품몰(dw1897.co.kr)",
-  "제품명": "화이투벤큐플러스",
-  "주효능": "종합감기",
-  "포장단위": "10정",
-  "기본가격": 1430,
-  "할인조건": "150개",
-  "할인율": 0.23,
-  "할인가격": 1100
+  "pharmacy": "동아제약몰(dapmall.com)",
+  "name": "판텍코감기",
+  "symtom": "코감기",
+  "ingredient": "AAP",
+  "unit": "10정",
+  "base_price": 1100,
+  "discount_condition": "3종 합산 1000개",
+  "discount_rate": 0.37,
+  "discount_price": 693
  },
  {
-  "판매처": "일양약품(일양직거래)",
-  "제품명": "속콜코프엘",
-  "주효능": "목감기,기침,가래",
-  "주성분": "DXM 10 ,Nos 10, 트리메토퀴놀 1, 구아이페네신 50, CPM 2",
-  "포장단위": "10정",
-  "기본가격": 1200,
-  "할인조건": "없음",
-  "할인율": 0,
-  "할인가격": 1200
+  "pharmacy": "동아제약몰(dapmall.com)",
+  "name": "판텍목감기",
+  "symtom": "목감기,인후통,기침,가래",
+  "ingredient": "AAP",
+  "unit": "10정",
+  "base_price": 1100,
+  "discount_condition": "3종 합산 1000개",
+  "discount_rate": 0.37,
+  "discount_price": 693
  },
  {
-  "판매처": "중외제약몰(jwpmall.co.kr)",
-  "제품명": "리시브골드",
-  "주효능": "간기능개선",
-  "주성분": "밀크시슬열매(실리마린 함유)",
-  "포장단위": "60정 2개",
-  "기본가격": 22000,
-  "할인조건": "40개",
-  "할인율": 0.27,
-  "할인가격": 16000
+  "pharmacy": "중외제약몰(jwpmall.co.kr)",
+  "name": "에스로반연고",
+  "symtom": "피부상처,항균성",
+  "ingredient": "무피로신",
+  "unit": "10g",
+  "base_price": 2200,
+  "discount_condition": "120개",
+  "discount_rate": 0.09,
+  "discount_price": 1999
  },
  {
-  "판매처": "중외제약몰(jwpmall.co.kr)",
-  "제품명": "리시브골드",
-  "주효능": "간기능개선",
-  "주성분": "밀크시슬열매(실리마린 함유)",
-  "포장단위": "60정 2개",
-  "기본가격": 22000,
-  "할인조건": "10개",
-  "할인율": 0.09,
-  "할인가격": 20000
+  "pharmacy": "중외제약몰(jwpmall.co.kr)",
+  "name": "리시브골드",
+  "symtom": "간기능개선",
+  "ingredient": "밀크시슬열매(실리마린 함유)",
+  "unit": "60정 2개",
+  "base_price": 22000,
+  "discount_condition": "40개",
+  "discount_rate": 0.27,
+  "discount_price": 16000
  },
  {
-  "판매처": "녹십자몰(premion.gccorp.com)",
-  "제품명": "그린노즈플러스",
-  "주효능": "코감기,알러지",
-  "주성분": "벨라돈나 0.2, 카페인 20, CPM4",
-  "포장단위": "10정",
-  "기본가격": 1540,
-  "할인조건": "180개",
-  "할인율": 0.22,
-  "할인가격": 1199
+  "pharmacy": "중외제약몰(jwpmall.co.kr)",
+  "name": "리시브골드",
+  "symtom": "간기능개선",
+  "ingredient": "밀크시슬열매(실리마린 함유)",
+  "unit": "60정 2개",
+  "base_price": 22000,
+  "discount_condition": "10개",
+  "discount_rate": 0.09,
+  "discount_price": 20000
  },
  {
-  "판매처": "동화약품몰(dw1897.co.kr)",
-  "제품명": "화이투벤멘톨나잘 0.1%",
-  "주효능": "코감기,알러지성 비염",
-  "주성분": "자일로메타졸린",
-  "포장단위": "10ml",
-  "기본가격": 6996,
-  "할인조건": "8박스(80개)",
-  "할인율": 0.21,
-  "할인가격": 5500
+  "pharmacy": "일동제약몰(saeropharm.com)",
+  "name": "오트리빈멘톨",
+  "symtom": "코감기,알러지성 비염",
+  "ingredient": "자일로메타졸린",
+  "unit": "10ml",
+  "base_price": 8161,
+  "discount_condition": "180개",
+  "discount_rate": 0.16,
+  "discount_price": 6853,
+  "min_quantity": 10
  },
  {
-  "판매처": "동화약품몰(dw1897.co.kr)",
-  "제품명": "화이투벤나잘 0.1%",
-  "주효능": "코감기,알러지성 비염",
-  "주성분": "자일로메타졸린",
-  "포장단위": "10ml",
-  "기본가격": 6996,
-  "할인조건": "8박스(80개)",
-  "할인율": 0.21,
-  "할인가격": 5500
+  "pharmacy": "일동제약몰(saeropharm.com)",
+  "name": "오트리빈에스",
+  "symtom": "코감기,알러지성 비염",
+  "ingredient": "자일로메타졸린",
+  "unit": "10ml",
+  "base_price": 8966,
+  "discount_condition": "60개",
+  "discount_rate": 0.14,
+  "discount_price": 7720,
+  "min_quantity": 10
  },
  {
-  "판매처": "동화약품몰(dw1897.co.kr)",
-  "제품명": "화이투벤나잘 0.05%(어린이)",
-  "주효능": "코감기,알러지성 비염",
-  "주성분": "자일로메타졸린",
-  "포장단위": "10ml",
-  "기본가격": 6996,
-  "할인조건": "8박스(80개)",
-  "할인율": 0.21,
-  "할인가격": 5500
+  "pharmacy": "일동제약몰(saeropharm.com)",
+  "name": "캐롤에프정",
+  "symtom": "소염해열진통",
+  "ingredient": "IBU 200mg (이부프로펜 아르기닌)",
+  "unit": "10정",
+  "base_price": 1591,
+  "discount_condition": "없음",
+  "discount_rate": 0,
+  "discount_price": 1591,
+  "min_quantity": 30
  },
  {
-  "판매처": "일동제약몰(saeropharm.com)",
-  "제품명": "오트리빈멘톨",
-  "주효능": "코감기,알러지성 비염",
-  "주성분": "자일로메타졸린",
-  "포장단위": "10ml",
-  "기본가격": 8161,
-  "할인조건": "180개",
-  "할인율": 0.16,
-  "할인가격": 6853,
-  "최소구매수량": 10
+  "pharmacy": "일동제약몰(saeropharm.com)",
+  "name": "케롤엔연질(조건2)",
+  "symtom": "소염진통",
+  "ingredient": "Naproxen 250mg",
+  "unit": "10정",
+  "base_price": 1491,
+  "discount_condition": "180개",
+  "discount_rate": 0.4,
+  "discount_price": 900,
+  "min_quantity": 30
  },
  {
-  "판매처": "일동제약몰(saeropharm.com)",
-  "제품명": "오트리빈에스",
-  "주효능": "코감기,알러지성 비염",
-  "주성분": "자일로메타졸린",
-  "포장단위": "10ml",
-  "기본가격": 8966,
-  "할인조건": "60개",
-  "할인율": 0.14,
-  "할인가격": 7720,
-  "최소구매수량": 10
+  "pharmacy": "일동제약몰(saeropharm.com)",
+  "name": "케롤엔연질(조건1)",
+  "symtom": "소염진통",
+  "ingredient": "Naproxen 250mg",
+  "unit": "10정",
+  "base_price": 1491,
+  "discount_condition": "30개",
+  "discount_rate": 0.12,
+  "discount_price": 1300,
+  "min_quantity": 30
  },
  {
-  "판매처": "일동제약몰(saeropharm.com)",
-  "제품명": "캐롤에프정",
-  "주효능": "소염해열진통",
-  "주성분": "IBU 200mg (이부프로펜 아르기닌)",
-  "포장단위": "10정",
-  "기본가격": 1591,
-  "할인조건": "없음",
-  "할인율": 0,
-  "할인가격": 1591,
-  "최소구매수량": 30
+  "pharmacy": "일동제약몰(saeropharm.com)",
+  "name": "케롤디연질(조건1)",
+  "symtom": "소염해열진통",
+  "ingredient": "Dexi 300mg",
+  "unit": "10정",
+  "base_price": 1491,
+  "discount_condition": "30개",
+  "discount_rate": 0.11,
+  "discount_price": 1320,
+  "min_quantity": 30
  },
  {
-  "판매처": "일동제약몰(saeropharm.com)",
-  "제품명": "케롤엔연질(조건2)",
-  "주효능": "소염진통",
-  "주성분": "Naproxen 250mg",
-  "포장단위": "10정",
-  "기본가격": 1491,
-  "할인조건": "180개",
-  "할인율": 0.4,
-  "할인가격": 900,
-  "최소구매수량": 30
+  "pharmacy": "일동제약몰(saeropharm.com)",
+  "name": "케롤디연질(조건2)",
+  "symtom": "소염해열진통",
+  "ingredient": "Dexi 300mg",
+  "unit": "10정",
+  "base_price": 1491,
+  "discount_condition": "90개",
+  "discount_rate": 0.26,
+  "discount_price": 1100,
+  "min_quantity": 30
  },
  {
-  "판매처": "일동제약몰(saeropharm.com)",
-  "제품명": "케롤엔연질(조건1)",
-  "주효능": "소염진통",
-  "주성분": "Naproxen 250mg",
-  "포장단위": "10정",
-  "기본가격": 1491,
-  "할인조건": "30개",
-  "할인율": 0.12,
-  "할인가격": 1300,
-  "최소구매수량": 30
+  "pharmacy": "일동제약몰(saeropharm.com)",
+  "name": "케롤비콜드",
+  "symtom": "종합감기",
+  "ingredient": "APP 180, CPM1.25, DXM 8, PSE 15, 구아이페네신 20.84, DL-MHE 12.5mg, 리보플라민 2mg",
+  "unit": "10정",
+  "base_price": 1250,
+  "discount_condition": "20개",
+  "discount_rate": 0.28,
+  "discount_price": 900,
+  "min_quantity": 20
  },
  {
-  "판매처": "일동제약몰(saeropharm.com)",
-  "제품명": "케롤디연질(조건1)",
-  "주효능": "소염해열진통",
-  "주성분": "Dexi 300mg",
-  "포장단위": "10정",
-  "기본가격": 1491,
-  "할인조건": "30개",
-  "할인율": 0.11,
-  "할인가격": 1320,
-  "최소구매수량": 30
+  "pharmacy": "일동제약몰(saeropharm.com)",
+  "name": "케롤비코프",
+  "symtom": "목감기,인후통,기침,가래",
+  "unit": "10정",
+  "base_price": 1250,
+  "discount_condition": "20개",
+  "discount_rate": 0.28,
+  "discount_price": 900,
+  "min_quantity": 20
  },
  {
-  "판매처": "일동제약몰(saeropharm.com)",
-  "제품명": "케롤디연질(조건2)",
-  "주효능": "소염해열진통",
-  "주성분": "Dexi 300mg",
-  "포장단위": "10정",
-  "기본가격": 1491,
-  "할인조건": "90개",
-  "할인율": 0.26,
-  "할인가격": 1100,
-  "최소구매수량": 30
+  "pharmacy": "대웅제약(shop.co.kr)",
+  "name": "이지엔이브"
  },
  {
-  "판매처": "일동제약몰(saeropharm.com)",
-  "제품명": "케롤비콜드",
-  "주효능": "종합감기",
-  "주성분": "APP 180, CPM1.25, DXM 8, PSE 15, 구아이페네신 20.84, DL-MHE 12.5mg, 리보플라민 2mg",
-  "포장단위": "10정",
-  "기본가격": 1250,
-  "할인조건": "20개",
-  "할인율": 0.28,
-  "할인가격": 900,
-  "최소구매수량": 20
+  "pharmacy": "대웅제약(shop.co.kr)",
+  "name": "이지엔6"
  },
  {
-  "판매처": "일동제약몰(saeropharm.com)",
-  "제품명": "케롤비코프",
-  "주효능": "목감기,인후통,기침,가래",
-  "포장단위": "10정",
-  "기본가격": 1250,
-  "할인조건": "20개",
-  "할인율": 0.28,
-  "할인가격": 900,
-  "최소구매수량": 20
+  "pharmacy": "대웅제약(shop.co.kr)",
+  "name": "이지엔6프로"
+ },
+ {
+  "pharmacy": "대웅제약(shop.co.kr)",
+  "name": "이지엔6애미"
+ },
+ {
+  "pharmacy": "대웅제약(shop.co.kr)",
+  "name": "이지엔6스트롱"
+ },
+ {
+  "pharmacy": "대웅제약(shop.co.kr)",
+  "name": "이지엔6에이스"
+ },
+ {
+  "pharmacy": "대웅제약(shop.co.kr)",
+  "name": "이지엔6나이트"
+ },
+ {
+  "pharmacy": "대웅제약(shop.co.kr)",
+  "name": "닥터베아제"
+ },
+ {
+  "pharmacy": "대웅제약(shop.co.kr)",
+  "name": "알지엔스피드연질"
+ },
+ {
+  "pharmacy": "대웅제약(shop.co.kr)",
+  "name": "씨콜드플러스코프"
+ },
+ {
+  "pharmacy": "대웅제약(shop.co.kr)",
+  "name": "씨콜드플러스노즈"
+ },
+ {
+  "pharmacy": "대웅제약(shop.co.kr)",
+  "name": "마그온플러스"
+ },
+ {
+  "pharmacy": "대웅제약(shop.co.kr)",
+  "name": "마그온맥스비연질"
+ },
+ {
+  "pharmacy": "대웅제약(shop.co.kr)",
+  "name": "마그온샷맥스액"
+ },
+ {
+  "pharmacy": "대웅제약(shop.co.kr)",
+  "name": "마그온샷액",
+  "ingredient": "미녹시딜"
+ },
+ {
+  "pharmacy": "대웅제약(shop.co.kr)",
+  "name": "썬비타민연질",
+  "ingredient": "Vit.D 1000, B2 5, DUCA 10"
+ },
+ {
+  "pharmacy": "대웅제약(shop.co.kr)",
+  "name": "임팩타민파위"
+ },
+ {
+  "pharmacy": "대웅제약(shop.co.kr)",
+  "name": "임팩타민프리미엄"
+ },
+ {
+  "pharmacy": "대웅제약(shop.co.kr)",
+  "name": "임팩타민원스"
+ },
+ {
+  "pharmacy": "대웅제약(shop.co.kr)",
+  "name": "임팩타민"
+ },
+ {
+  "pharmacy": "대웅제약(shop.co.kr)",
+  "name": "임팩타민케어"
+ },
+ {
+  "pharmacy": "대웅제약(shop.co.kr)",
+  "name": "리버골드파워"
+ },
+ {
+  "pharmacy": "대웅제약(shop.co.kr)",
+  "name": "이지에프새살연고"
+ },
+ {
+  "pharmacy": "대웅제약(shop.co.kr)",
+  "name": "모바렌5%폼에어로솔"
+ },
+ {
+  "pharmacy": "대웅제약(shop.co.kr)",
+  "name": "이지판테놀"
+ },
+ {
+  "pharmacy": "대웅제약(shop.co.kr)",
+  "name": "이지클리어",
+  "symtom": "여드름,뾰루지"
+ },
+ {
+  "pharmacy": "대웅제약(shop.co.kr)",
+  "name": "코메키나스프레이",
+  "symtom": "코감기,알러지성 비염",
+  "ingredient": "옥시메타졸린염산염 , CPM , 글리시리진산이칼륨 "
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "마그비 이엑스연질"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "이지케어 네일라카"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "마그비 맥스연질",
+  "discount_condition": "3종(마그비,맥스,엑티브)합산 30개",
+  "discount_rate": 0.2
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "마그비 이엑스연질"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "마그비 연질",
+  "discount_condition": "3종(마그비,맥스,엑티브)합산 30개",
+  "discount_rate": 0.2
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "마그비 액티브",
+  "discount_condition": "3종(마그비,맥스,엑티브)합산 30개",
+  "discount_rate": 0.2
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "마그비스피드"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "마그비스피트더블액션"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "류테인지아잔틴플러스"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "메가트루파워"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "메가트골드정"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "메가트루633"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "메가트루포커스"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "그랑페롤"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "가리포맨"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "알티지 식물성오메가3"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "센스데이정"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "에너리버",
+  "symtom": "간기능개선",
+  "ingredient": "밀크시슬열매(실리마린 함유)",
+  "unit": "60정 2개",
+  "base_price": 24200,
+  "discount_condition": "10개",
+  "discount_rate": 0.1,
+  "discount_price": 21780
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "카네스텐크림"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "안티푸라민연고"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "삐콤씨"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "텐타자임"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "덴타퀵"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "안티푸라민 쿨파워 롱"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "레피콜노즈"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "래피콜에이"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "패피콜 코드 연질"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "비판텐연고"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "안티푸라민에서로션"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "유한비타민C 200정"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "유한비타민C 300정"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "라라올라"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "코푸시럽에스"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "아이미루 40EX"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "아이미루 40EX 마일드"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "아이미루 40EX 골드"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "아이미루 40EX 골드콘택트"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "아이밀 콘택트퓨어"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "윌로겔"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "안티푸라민 더블파위 대형"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "안티푸라민 더블파위 중형"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "안티푸라민  쿨 에어파스"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "센스데이정"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "센스데이 얼리체크"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "센스테이 체크"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "안티푸라민쿨 카타플라스마"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "확펜연질"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "카네스텐 20g"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "안티푸라민 한방"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "카네스텐1질정 1정"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "카네스펜질정 6정"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "에너리버연질캡슐"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "덱스피드연질"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "안티푸라민 쿨 에어파스 300ml"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "안티푸라민에스로션 500ml"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "코푸시럽에스 12포"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "안티푸라민 파프"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "삐콤씨파워정 120정"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "해피홈"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "유한비타민씨정 600정"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "파모큐정 20정"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "코푸정"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "알마겔에프현탁액 6포"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "유한메가비타액 10병"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "안티푸라민 40플라스타"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "엘러나 30캡슐"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "카네스텐산제"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "복합유디리버연질캡슐"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "조인본코드로 800"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "미녹펜겔 5%"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "스위터"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "안티푸라민 조인트 10매"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "안티푸라민 케토 10매"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "해피홈 리퀴드 45일"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "해피홈 리퀴드 컴바인"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "데일리케어 폴리코사놀5"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "해피홈 바퀴에어로솔"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "유한 세티리진정 10정"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "페어아크네 크림"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "내일엔 100ml"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "안티푸라민 빅파워 플라스타"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "해피홈 에어로솔 수성 감귤향"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "쏘슈정"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "크랑페롤연질 400U "
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "안티푸라민 케토 5매"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "해피홈 파워매트 60매"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
+  "name": "파모큐정 60정"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)"
+ },
+ {
+  "pharmacy": "유한양행(플랫팜,platpharm.co.kr)"
+ },
+ {
+  "pharmacy": "종근당(플랫팜,platpharm.co.kr)"
+ },
+ {
+  "pharmacy": "종근당(플랫팜,platpharm.co.kr)"
+ },
+ {
+  "pharmacy": "종근당(플랫팜,platpharm.co.kr)"
+ },
+ {
+  "pharmacy": "종근당(플랫팜,platpharm.co.kr)"
+ },
+ {
+  "pharmacy": "종근당(플랫팜,platpharm.co.kr)"
+ },
+ {
+  "pharmacy": "종근당(플랫팜,platpharm.co.kr)"
+ },
+ {
+  "pharmacy": "종근당(플랫팜,platpharm.co.kr)"
+ },
+ {
+  "pharmacy": "종근당(플랫팜,platpharm.co.kr)"
+ },
+ {
+  "pharmacy": "종근당(플랫팜,platpharm.co.kr)"
+ },
+ {
+  "pharmacy": "종근당(플랫팜,platpharm.co.kr)"
+ },
+ {
+  "pharmacy": "종근당(플랫팜,platpharm.co.kr)"
+ },
+ {
+  "pharmacy": "종근당(플랫팜,platpharm.co.kr)",
+  "name": "액티리버모닝",
+  "symtom": "간기능개선",
+  "ingredient": "밀크시슬열매(실리마린 함유)",
+  "unit": "60정 2개",
+  "base_price": 23000,
+  "discount_condition": "20개",
+  "discount_rate": 0.13,
+  "discount_price": 20000
+ },
+ {
+  "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
+  "name": "맥시부펜콜드연질",
+  "symtom": "종합감기",
+  "ingredient": "IBU",
+  "unit": "12정",
+  "base_price": 1360,
+  "discount_condition": "3종합산 510개",
+  "discount_rate": 0.15,
+  "discount_price": 1156
+ },
+ {
+  "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
+  "name": "맥시부펜노즈연질",
+  "symtom": "코감기",
+  "unit": "12정",
+  "base_price": 1360,
+  "discount_condition": "3종합산 510개",
+  "discount_rate": 0.15,
+  "discount_price": 1156
+ },
+ {
+  "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
+  "name": "맥시부펜코프연질",
+  "symtom": "목감기",
+  "unit": "12정",
+  "base_price": 1360,
+  "discount_condition": "3종합산 510개",
+  "discount_rate": 0.15,
+  "discount_price": 1156
+ },
+ {
+  "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
+  "name": "무조날맥스레일라카",
+  "symtom": "손발톱무좀",
+  "ingredient": "테르비나핀"
+ },
+ {
+  "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
+  "name": "\t무조날에스네일라카 6mL",
+  "ingredient": "시클로피록스"
+ },
+ {
+  "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
+  "name": "목앤스프레이 20mL"
+ },
+ {
+  "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
+  "name": "마그네비스피드액 30포 20mg"
+ },
+ {
+  "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
+  "name": "맥시부키즈 시럽 6mL*10P"
+ },
+ {
+  "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
+  "name": "써스펜키즈시럽6mL*10P"
+ },
+ {
+  "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
+  "name": "\t[키즈SET]써스펜키즈시럽20EA + 맥시부키즈시럽20EA"
+ },
+ {
+  "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
+  "name": "장쾌락시럽 15mL"
+ },
+ {
+  "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
+  "name": "페리톡겔 10g"
+ },
+ {
+  "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
+  "name": "헤리엔톡크림 5g"
+ },
+ {
+  "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
+  "name": "바이버 크림\/ 5g(NEW)"
+ },
+ {
+  "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
+  "name": "나인나인정(병)"
+ },
+ {
+  "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
+  "name": "쎄코론지크림 30g"
+ },
+ {
+  "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
+  "name": "에너지골드 무카페인 100EA + 실리만 100EA"
+ },
+ {
+  "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
+  "name": "눈앤점안액0.5%(1회용) \/ (0.5mL*5)*6(OTC) 0.5ml"
+ },
+ {
+  "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
+  "name": "눈앤쿨점안액0.6%(1회용) \/ 0.5mL(30 튜브)"
+ },
+ {
+  "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
+  "name": "케어가글액(무색, 유칼립투스향) 250mL"
+ },
+ {
+  "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
+  "name": "실리만연질캡슐140(밀크시슬엑스)(포) 175mg",
+  "symtom": 1
+ },
+ {
+  "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
+  "name": "케어가글액(무색, 박하향) 1000ml"
+ },
+ {
+  "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
+  "name": "케어가글액(무색, 박하향)(약국용) 250ml"
+ },
+ {
+  "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
+  "name": "케어가글액(무색, 박하향)(약국용) 100mL"
+ },
+ {
+  "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
+  "name": "케어가글액(무색, 사과향) \/ 250mL(약국용) 250mL"
+ },
+ {
+  "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
+  "name": "코앤나잘스프레이 15mL(140회)"
+ },
+ {
+  "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
+  "name": "한미치쏙정600밀리그램 30T*2"
+ },
+ {
+  "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
+  "name": "리렉스담정 10T(PTP)"
+ },
+ {
+  "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
+  "name": "눈앤큐점안액(병) 15ml"
+ },
+ {
+  "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
+  "name": "목시딜액5%",
+  "ingredient": "미녹시딜"
+ },
+ {
+  "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
+  "name": "무조날 크림\/ 15g(NEW)",
+  "ingredient": "테르비나핀"
+ },
+ {
+  "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
+  "name": "\t무조날쿨크림 15g",
+  "ingredient": "테르비나핀염산염 10mg, 리도카인 20mg, L-멘톨 10mg, 글리시리진산이칼륨 5mg"
+ },
+ {
+  "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
+  "name": "아스피린장용정"
+ },
+ {
+  "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
+  "name": "써스펜8시간이알서방정",
+  "unit": "6정",
+  "base_price": 550,
+  "discount_condition": "없음",
+  "discount_rate": 0,
+  "discount_price": 550,
+  "min_quantity": "30개",
+  "info": "특가 유효기간 2026년 3월 21일"
+ },
+ {
+  "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
+  "name": "써스펜데이정",
+  "unit": "10정",
+  "base_price": 440,
+  "discount_condition": "없음",
+  "discount_rate": 0,
+  "discount_price": 440,
+  "min_quantity": "30개",
+  "info": "특가 유효기간 2026년 3월 21일"
+ },
+ {
+  "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
+  "name": "써스펜나이트정",
+  "unit": "10정",
+  "base_price": 440,
+  "discount_condition": "없음",
+  "discount_rate": 0,
+  "discount_price": 440,
+  "min_quantity": "30개",
+  "info": "특가 유효기간 2026년 3월 21일"
+ },
+ {
+  "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
+  "name": "포텐시에이터 액 10ml*20ea "
+ },
+ {
+  "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
+  "name": "코푸스탑플러스연질캡슐 10C(NEW)"
+ },
+ {
+  "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
+  "name": "제텐씨정(병) 60T"
+ },
+ {
+  "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
+  "name": "코앤쿨나잘스프레이 20ml"
+ },
+ {
+  "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
+  "name": "텐텐츄정\/ 120T(NEW)"
+ },
+ {
+  "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
+  "name": "텐텐츄정\/ 10T*20"
+ },
+ {
+  "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
+  "name": "슬리펠정 20T"
+ },
+ {
+  "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
+  "name": "[한방]갈근탕액(종합감기약) 75ml"
+ },
+ {
+  "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
+  "name": "[한방]삼소천액(기침감기약) 75ml"
+ },
+ {
+  "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
+  "name": "[한방]쌍화탕액(피로회복제) 75ml"
+ },
+ {
+  "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
+  "name": "[한방]소폐탕액(콧물감기약) 75ml"
+ },
+ {
+  "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
+  "name": "안토시안연질캡슐(빌베리건조엑스)(병) 170mg"
+ },
+ {
+  "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
+  "name": "코스펜정 10T(PTP) (NEW)"
+ },
+ {
+  "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
+  "name": "루마겔\/ 50g(NEW)"
+ },
+ {
+  "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
+  "name": "복합써스펜 좌약\/ 10S(NEW)"
+ },
+ {
+  "pharmacy": "일양약품(일양직거래)",
+  "name": "속콜코프엘",
+  "symtom": "목감기,기침,가래",
+  "ingredient": "DXM 10 ,Nos 10, 트리메토퀴놀 1, 구아이페네신 50, CPM 2",
+  "unit": "10정",
+  "base_price": 1200,
+  "discount_condition": "없음",
+  "discount_rate": 0,
+  "discount_price": 1200
+ },
+ {
+  "pharmacy": "일양약품(일양직거래)",
+  "name": "노루모듀얼액션"
+ },
+ {
+  "pharmacy": "일양약품(일양직거래)",
+  "name": "아이치온"
+ },
+ {
+  "pharmacy": "일양약품(일양직거래)"
+ },
+ {
+  "pharmacy": "일양약품(일양직거래)"
+ },
+ {
+  "pharmacy": "일양약품(일양직거래)"
+ },
+ {
+  "pharmacy": "일양약품(일양직거래)"
+ },
+ {
+  "pharmacy": "일양약품(일양직거래)"
+ },
+ {
+  "pharmacy": "일양약품(일양직거래)"
+ },
+ {
+  "pharmacy": "일양약품(일양직거래)"
+ },
+ {
+  "pharmacy": "일양약품(일양직거래)"
+ },
+ {
+  "pharmacy": "일양약품(일양직거래)"
+ },
+ {
+  "pharmacy": "일양약품(일양직거래)"
+ },
+ {
+  "pharmacy": "일양약품(일양직거래)"
+ },
+ {
+  "pharmacy": "동국제약(동국직거래)",
+  "name": "인사돌"
+ },
+ {
+  "pharmacy": "동국제약(동국직거래)",
+  "name": "인사돌플러스"
+ },
+ {
+  "pharmacy": "동국제약(동국직거래)",
+  "name": "마데카솔분말"
+ },
+ {
+  "pharmacy": "동국제약(동국직거래)",
+  "name": "마데카솔 6g"
+ },
+ {
+  "pharmacy": "동국제약(동국직거래)",
+  "name": "마데카솔 10g"
+ },
+ {
+  "pharmacy": "동국제약(동국직거래)",
+  "name": "마데카솔겔"
+ },
+ {
+  "pharmacy": "동국제약(동국직거래)",
+  "name": "판시딜"
+ },
+ {
+  "pharmacy": "동국제약(동국직거래)",
+  "name": "센시아"
+ },
+ {
+  "pharmacy": "동국제약(동국직거래)",
+  "name": "치젤연고"
+ },
+ {
+  "pharmacy": "동국제약(동국직거래)",
+  "name": "치센정"
+ },
+ {
+  "pharmacy": "동국제약(동국직거래)",
+  "name": "치센캡슐"
+ },
+ {
+  "pharmacy": "동국제약(동국직거래)"
+ },
+ {
+  "pharmacy": "동국제약(동국직거래)"
+ },
+ {
+  "pharmacy": "동국제약(동국직거래)"
+ },
+ {
+  "pharmacy": "동국제약(동국직거래)"
+ },
+ {
+  "pharmacy": "동국제약(동국직거래)"
+ },
+ {
+  "pharmacy": "동국제약(동국직거래)"
+ },
+ {
+  "pharmacy": "동국제약(동국직거래)"
+ },
+ {
+  "pharmacy": "동국제약(동국직거래)"
+ },
+ {
+  "pharmacy": "동국제약(동국직거래)"
+ },
+ {
+  "pharmacy": "동국제약(동국직거래)"
+ },
+ {
+  "pharmacy": "동국제약(동국직거래)"
+ },
+ {
+  "pharmacy": "동국제약(동국직거래)"
+ },
+ {
+  "pharmacy": "동국제약(동국직거래)"
+ },
+ {
+  "pharmacy": "동국제약(동국직거래)"
+ },
+ {
+  "pharmacy": "동국제약(동국직거래)"
+ },
+ {
+  "pharmacy": "동국제약(동국직거래)"
+ },
+ {
+  "pharmacy": "동국제약(동국직거래)"
+ },
+ {
+  "pharmacy": "동성제약(동성제약몰,www.dspmall.kr)"
+ },
+ {
+  "pharmacy": "동성제약(동성제약몰,www.dspmall.kr)"
+ },
+ {
+  "pharmacy": "동성제약(동성제약몰,www.dspmall.kr)"
+ },
+ {
+  "pharmacy": "동성제약(동성제약몰,www.dspmall.kr)"
+ },
+ {
+  "pharmacy": "동성제약(동성제약몰,www.dspmall.kr)"
+ },
+ {
+  "pharmacy": "동성제약(동성제약몰,www.dspmall.kr)"
+ },
+ {
+  "pharmacy": "동성제약(동성제약몰,www.dspmall.kr)"
+ },
+ {
+  "pharmacy": "동성제약(동성제약몰,www.dspmall.kr)"
+ },
+ {
+  "pharmacy": "동성제약(동성제약몰,www.dspmall.kr)"
+ },
+ {
+  "pharmacy": "동성제약(동성제약몰,www.dspmall.kr)"
+ },
+ {
+  "pharmacy": "동성제약(동성제약몰,www.dspmall.kr)"
+ },
+ {
+  "pharmacy": "동성제약(동성제약몰,www.dspmall.kr)"
+ },
+ {
+  "pharmacy": "동성제약(동성제약몰,www.dspmall.kr)"
+ },
+ {
+  "pharmacy": "동성제약(동성제약몰,www.dspmall.kr)"
+ },
+ {
+  "pharmacy": "동성제약(동성제약몰,www.dspmall.kr)"
+ },
+ {
+  "pharmacy": "동성제약(동성제약몰,www.dspmall.kr)"
+ },
+ {
+  "pharmacy": "동성제약(동성제약몰,www.dspmall.kr)"
+ },
+ {
+  "pharmacy": "보령제약(보령직거래몰,pharm-street.com)"
+ },
+ {
+  "pharmacy": "보령제약(보령직거래몰,pharm-street.com)"
+ },
+ {
+  "pharmacy": "보령제약(보령직거래몰,pharm-street.com)"
+ },
+ {
+  "pharmacy": "보령제약(보령직거래몰,pharm-street.com)"
+ },
+ {
+  "pharmacy": "보령제약(보령직거래몰,pharm-street.com)"
+ },
+ {
+  "pharmacy": "보령제약(보령직거래몰,pharm-street.com)"
+ },
+ {
+  "pharmacy": "보령제약(보령직거래몰,pharm-street.com)"
+ },
+ {
+  "pharmacy": "보령제약(보령직거래몰,pharm-street.com)"
+ },
+ {
+  "pharmacy": "보령제약(보령직거래몰,pharm-street.com)"
+ },
+ {
+  "pharmacy": "보령제약(보령직거래몰,pharm-street.com)"
+ },
+ {
+  "pharmacy": "보령제약(보령직거래몰,pharm-street.com)"
+ },
+ {
+  "pharmacy": "보령제약(보령직거래몰,pharm-street.com)"
+ },
+ {
+  "pharmacy": "익수제약(플랫팜)"
+ },
+ {
+  "pharmacy": "익수제약(플랫팜)"
+ },
+ {
+  "pharmacy": "익수제약(플랫팜)"
+ },
+ {
+  "pharmacy": "익수제약(플랫팜)"
+ },
+ {
+  "pharmacy": "익수제약(플랫팜)"
+ },
+ {
+  "pharmacy": "익수제약(플랫팜)"
+ },
+ {
+  "pharmacy": "익수제약(플랫팜)"
+ },
+ {
+  "pharmacy": "익수제약(플랫팜)"
+ },
+ {
+  "pharmacy": "익수제약(플랫팜)"
+ },
+ {
+  "pharmacy": "익수제약(플랫팜)"
+ },
+ {
+  "pharmacy": "익수제약(플랫팜)"
+ },
+ {
+  "pharmacy": "익수제약(플랫팜)"
+ },
+ {
+  "pharmacy": "익수제약(플랫팜)"
+ },
+ {
+  "pharmacy": "익수제약(플랫팜)"
+ },
+ {
+  "pharmacy": "익수제약(플랫팜)"
+ },
+ {
+  "pharmacy": "광동제약(광동제약몰)"
+ },
+ {
+  "pharmacy": "광동제약(광동제약몰)"
+ },
+ {
+  "pharmacy": "광동제약(광동제약몰)"
+ },
+ {
+  "pharmacy": "광동제약(광동제약몰)"
+ },
+ {
+  "pharmacy": "광동제약(광동제약몰)"
+ },
+ {
+  "pharmacy": "광동제약(광동제약몰)"
+ },
+ {
+  "pharmacy": "광동제약(광동제약몰)"
+ },
+ {
+  "pharmacy": "광동제약(광동제약몰)"
+ },
+ {
+  "pharmacy": "광동제약(광동제약몰)"
+ },
+ {
+  "pharmacy": "광동제약(광동제약몰)"
+ },
+ {
+  "pharmacy": "광동제약(광동제약몰)"
+ },
+ {
+  "pharmacy": "광동제약(광동제약몰)"
+ },
+ {
+  "pharmacy": "광동제약(광동제약몰)"
+ },
+ {
+  "pharmacy": "광동제약(광동제약몰)"
+ },
+ {
+  "pharmacy": "광동제약(광동제약몰)"
+ },
+ {
+  "pharmacy": "광동제약(광동제약몰)"
+ },
+ {
+  "pharmacy": "광동제약(광동제약몰)"
+ },
+ {
+  "pharmacy": "광동제약(광동제약몰)"
+ },
+ {
+  "pharmacy": "광동제약(광동제약몰)"
+ },
+ {
+  "pharmacy": "광동제약(광동제약몰)"
+ },
+ {
+  "pharmacy": "광동제약(광동제약몰)"
+ },
+ {
+  "pharmacy": "광동제약(광동제약몰)"
+ },
+ {
+  "pharmacy": "광동제약(광동제약몰)"
+ },
+ {
+  "pharmacy": "광동제약(광동제약몰)"
+ },
+ {
+  "pharmacy": "광동제약(광동제약몰)"
  }
 ]
