@@ -2,7 +2,7 @@
  {
   "pharmacy": "동화약품몰(dw1897.co.kr)",
   "name": "파워콜코프",
-  "symtom": "목감기,인후통,기침,가래",
+  "symtom": "감기,목감기,인후통,기침,가래",
   "ingredient": "AAP",
   "unit": "10정",
   "base_price": 1267,
