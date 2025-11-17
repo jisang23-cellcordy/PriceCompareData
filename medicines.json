@@ -2,7 +2,7 @@
  {
   "pharmacy": "동화약품몰(dw1897.co.kr)",
   "name": "파워콜코프",
-  "main_category": "감기약",
+  "main_category": "감기",
   "sub_category": "목",
   "symptom": "목감기,인후통,기침,가래",
   "ingredient": "AAP",
@@ -15,7 +15,7 @@
  {
   "pharmacy": "동화약품몰(dw1897.co.kr)",
   "name": "파워콜노즈",
-  "main_category": "감기약",
+  "main_category": "감기",
   "sub_category": "코",
   "symptom": "코감기",
   "ingredient": "AAP",
@@ -28,7 +28,7 @@
  {
   "pharmacy": "동화약품몰(dw1897.co.kr)",
   "name": "파워콜종합",
-  "main_category": "감기약",
+  "main_category": "감기",
   "sub_category": "종합",
   "symptom": "종합감기",
   "ingredient": "AAP",
@@ -41,7 +41,7 @@
  {
   "pharmacy": "동화약품몰(dw1897.co.kr)",
   "name": "파워콜에스종합",
-  "main_category": "감기약",
+  "main_category": "감기",
   "sub_category": "종합",
   "symptom": "종합감기",
   "ingredient": "AAP",
@@ -67,7 +67,7 @@
  {
   "pharmacy": "동화약품몰(dw1897.co.kr)",
   "name": "화이투벤큐플러스코프",
-  "main_category": "감기약",
+  "main_category": "감기",
   "sub_category": "목",
   "symptom": "목감기",
   "ingredient": "AAP,구아이페네신,DXM,Nos,트리프롤리딘",
@@ -80,7 +80,7 @@
  {
   "pharmacy": "동화약품몰(dw1897.co.kr)",
   "name": "화이투벤큐플러스",
-  "main_category": "감기약",
+  "main_category": "감기",
   "sub_category": "종합",
   "symptom": "종합감기",
   "unit": "10정",
@@ -222,7 +222,7 @@
  {
   "pharmacy": "녹십자몰(premion.gccorp.com)",
   "name": "그린노즈플러스",
-  "main_category": "감기약",
+  "main_category": "감기",
   "sub_category": "코",
   "symptom": "코감기,알러지",
   "ingredient": "벨라돈나 0.2, 카페인 20, CPM4",
@@ -563,7 +563,7 @@
  {
   "pharmacy": "동아제약몰(dapmall.com)",
   "name": "판텍종합감기",
-  "main_category": "감기약",
+  "main_category": "감기",
   "sub_category": "종합",
   "symptom": "종합감기",
   "ingredient": "AAP",
@@ -576,7 +576,7 @@
  {
   "pharmacy": "동아제약몰(dapmall.com)",
   "name": "판텍코감기",
-  "main_category": "감기약",
+  "main_category": "감기",
   "sub_category": "코",
   "symptom": "코감기",
   "ingredient": "AAP",
@@ -589,7 +589,7 @@
  {
   "pharmacy": "동아제약몰(dapmall.com)",
   "name": "판텍목감기",
-  "main_category": "감기약",
+  "main_category": "감기",
   "sub_category": "목",
   "symptom": "목감기,인후통,기침,가래",
   "ingredient": "AAP",
@@ -738,7 +738,7 @@
  {
   "pharmacy": "일동제약몰(saeropharm.com)",
   "name": "케롤비콜드",
-  "main_category": "감기약",
+  "main_category": "감기",
   "sub_category": "종합",
   "symptom": "종합감기",
   "ingredient": "APP 180, CPM1.25, DXM 8, PSE 15, 구아이페네신 20.84, DL-MHE 12.5mg, 리보플라민 2mg",
@@ -1729,11 +1729,11 @@
  },
  {
   "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
-  "name": "[한방]갈근탕액(종합감기약) 75ml"
+  "name": "[한방]갈근탕액(종합감기) 75ml"
  },
  {
   "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
-  "name": "[한방]삼소천액(기침감기약) 75ml"
+  "name": "[한방]삼소천액(기침감기) 75ml"
  },
  {
   "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
@@ -1741,7 +1741,7 @@
  },
  {
   "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
-  "name": "[한방]소폐탕액(콧물감기약) 75ml"
+  "name": "[한방]소폐탕액(콧물감기) 75ml"
  },
  {
   "pharmacy": "한미약품(한미몰,hmpmall.co.kr)",
