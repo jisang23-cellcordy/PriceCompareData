@@ -319,7 +319,7 @@
   "discount_condition": "6종 합산 240개",
   "discount_rate": 30,
   "discount_price": 2530,
-  "discount_group": "동아제약 진통제 합산 6종"
+  "합산할인제품들": "동아제약 진통제 합산 6종"
  },
  {
   "pharmacy": "동아제약몰(dapmall.com)",
@@ -333,7 +333,7 @@
   "discount_condition": "6종 합산 240개",
   "discount_rate": 40,
   "discount_price": 990,
-  "discount_group": "동아제약 진통제 합산 6종"
+  "합산할인제품들": "동아제약 진통제 합산 6종"
  },
  {
   "pharmacy": "동아제약몰(dapmall.com)",
@@ -347,7 +347,7 @@
   "discount_condition": "6종 합산 240개",
   "discount_rate": 46,
   "discount_price": 770,
-  "discount_group": "동아제약 진통제 합산 6종"
+  "합산할인제품들": "동아제약 진통제 합산 6종"
  },
  {
   "pharmacy": "동아제약몰(dapmall.com)",
@@ -361,7 +361,7 @@
   "discount_condition": "6종 합산 240개",
   "discount_rate": 46,
   "discount_price": 770,
-  "discount_group": "동아제약 진통제 합산 6종"
+  "합산할인제품들": "동아제약 진통제 합산 6종"
  },
  {
   "pharmacy": "동아제약몰(dapmall.com)",
@@ -375,7 +375,7 @@
   "discount_condition": "6종 합산 240개",
   "discount_rate": 38,
   "discount_price": 880,
-  "discount_group": "동아제약 진통제 합산 6종"
+  "합산할인제품들": "동아제약 진통제 합산 6종"
  },
  {
   "pharmacy": "동아제약몰(dapmall.com)",
@@ -389,7 +389,7 @@
   "discount_condition": "6종 합산 240개",
   "discount_rate": 38,
   "discount_price": 880,
-  "discount_group": "동아제약 진통제 합산 6종"
+  "합산할인제품들": "동아제약 진통제 합산 6종"
  },
  {
   "pharmacy": "중외제약몰(jwpmall.co.kr)",
@@ -453,7 +453,7 @@
   "discount_condition": "4종 합산50개",
   "discount_rate": 15,
   "discount_price": 4208,
-  "discount_group": "동아제약 아이오쿨 합산 4종"
+  "합산할인제품들": "동아제약 아이오쿨 합산 4종"
  },
  {
   "pharmacy": "동아제약몰(dapmall.com)",
@@ -467,7 +467,7 @@
   "discount_condition": "4종 합산50개",
   "discount_rate": 36,
   "discount_price": 3520,
-  "discount_group": "동아제약 아이오쿨 합산 4종"
+  "합산할인제품들": "동아제약 아이오쿨 합산 4종"
  },
  {
   "pharmacy": "동아제약몰(dapmall.com)",
@@ -480,7 +480,7 @@
   "discount_condition": "4종 합산50개",
   "discount_rate": 20,
   "discount_price": 7920,
-  "discount_group": "동아제약 아이오쿨 합산 4종"
+  "합산할인제품들": "동아제약 아이오쿨 합산 4종"
  },
  {
   "pharmacy": "동아제약몰(dapmall.com)",
@@ -493,7 +493,7 @@
   "discount_condition": "4종 합산50개",
   "discount_rate": 25,
   "discount_price": 5940,
-  "discount_group": "동아제약 아이오쿨 합산 4종"
+  "합산할인제품들": "동아제약 아이오쿨 합산 4종"
  },
  {
   "pharmacy": "동아제약몰(dapmall.com)",
@@ -506,7 +506,7 @@
   "discount_condition": "5종 합100개",
   "discount_rate": 23,
   "discount_price": 2970,
-  "discount_group": "동아제약 챔프 합산 5종"
+  "합산할인제품들": "동아제약 챔프 합산 5종"
  },
  {
   "pharmacy": "동아제약몰(dapmall.com)",
@@ -519,7 +519,7 @@
   "discount_condition": "5종 합100개",
   "discount_rate": 23,
   "discount_price": 2970,
-  "discount_group": "동아제약 챔프 합산 5종"
+  "합산할인제품들": "동아제약 챔프 합산 5종"
  },
  {
   "pharmacy": "동아제약몰(dapmall.com)",
@@ -532,7 +532,7 @@
   "discount_condition": "5종 합100개",
   "discount_rate": 23,
   "discount_price": 2970,
-  "discount_group": "동아제약 챔프 합산 5종"
+  "합산할인제품들": "동아제약 챔프 합산 5종"
  },
  {
   "pharmacy": "동아제약몰(dapmall.com)",
@@ -545,7 +545,7 @@
   "discount_condition": "5종 합100개",
   "discount_rate": 14.000000000000002,
   "discount_price": 1980,
-  "discount_group": "동아제약 챔프 합산 5종"
+  "합산할인제품들": "동아제약 챔프 합산 5종"
  },
  {
   "pharmacy": "동아제약몰(dapmall.com)",
@@ -558,7 +558,7 @@
   "discount_condition": "5종 합100개",
   "discount_rate": 14.000000000000002,
   "discount_price": 1980,
-  "discount_group": "동아제약 챔프 합산 5종"
+  "합산할인제품들": "동아제약 챔프 합산 5종"
  },
  {
   "pharmacy": "동아제약몰(dapmall.com)",
