@@ -1309,6 +1309,10 @@
  {
   "pharmacy": "유한양행(플랫팜,platpharm.co.kr)",
   "name": "덱스피드연질",
+  "main_category": "NSAIDs",
+  "sub_category": "덱시부프로펜",
+  "symptom": "소염해열진통",
+  "ingredient": "Dexi 300mg",
   "base_price": 1800
  },
  {
