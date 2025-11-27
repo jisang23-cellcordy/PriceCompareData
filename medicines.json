@@ -219,7 +219,7 @@
   "unit": "5ml 10포",
   "base_price": 2310,
   "discount_condition": "5종 합산 100개",
-  "discount_rate": 14.000000000000002,
+  "discount_rate": 14,
   "discount_price": 1980,
   "discount_group": "동아 챔프시리즈"
  },
@@ -233,7 +233,7 @@
   "unit": "5ml 10포",
   "base_price": 2310,
   "discount_condition": "5종 합산 100개",
-  "discount_rate": 14.000000000000002,
+  "discount_rate": 14,
   "discount_price": 1980,
   "discount_group": "동아 챔프시리즈"
  },
