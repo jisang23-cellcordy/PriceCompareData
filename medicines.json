@@ -861,7 +861,7 @@
   "main_category": "소아",
   "sub_category": "해열",
   "symptom": "해열",
-  "ingredient": "AAP 3.2g\/100mL (1포에 160mg)",
+  "ingredient": "AAP 3.2g(100mL) (1포에 160mg)",
   "unit": "5ml 10포",
   "base_price": 2200,
   "min_quantity": 10
@@ -910,7 +910,7 @@
   "main_category": "피부질환",
   "sub_category": "여드름",
   "symptom": "여드름",
-  "ingredient": "니코틴산아미드 40mg\/1g",
+  "ingredient": "니코틴산아미드 40mg(1g)",
   "unit": "18g",
   "base_price": 4400
  },
@@ -1272,7 +1272,7 @@
   "discount_rate": 10,
   "discount_price": 1386,
   "min_quantity": 30,
-  "info": "유효기간27-09-30 \/ 이벤트"
+  "info": "유효기간27-09-30 이벤트"
  },
  {
   "pharmacy": "대웅제약(shop.co.kr)",
