@@ -103,7 +103,7 @@
   "main_category": "피부질환",
   "sub_category": "두피",
   "symptom": "탈모",
-  "ingredient": "판토텐산칼슘 60mg, 케라틴 20mg,L - 시스틴 20mg,약용효모 100mg, p - 아미노벤조산 20mg, 티아민질산염 60mg",
+  "ingredient": "판토텐산칼슘 60mg, 케라틴 20mg, L- 시스틴 20mg,약용효모 100mg, p - 아미노벤조산 20mg, 티아민질산염 60mg",
   "unit": "180캡슐",
   "base_price": 33000,
   "discount_condition": "2종 합산 100개",
@@ -219,7 +219,7 @@
   "unit": "5ml 10포",
   "base_price": 2310,
   "discount_condition": "5종 합산 100개",
-  "discount_rate": 14.000000000000002,
+  "discount_rate": 14,
   "discount_price": 1980,
   "discount_group": "동아 챔프시리즈"
  },
@@ -233,7 +233,7 @@
   "unit": "5ml 10포",
   "base_price": 2310,
   "discount_condition": "5종 합산 100개",
-  "discount_rate": 14.000000000000002,
+  "discount_rate": 14,
   "discount_price": 1980,
   "discount_group": "동아 챔프시리즈"
  },
@@ -901,7 +901,7 @@
   "unit": "60정 2개",
   "base_price": 23000,
   "discount_condition": "20개",
-  "discount_rate": 0.13,
+  "discount_rate": 13,
   "discount_price": 20000
  },
  {
@@ -961,7 +961,7 @@
   "unit": "10cap",
   "base_price": 1100,
   "discount_condition": 100,
-  "discount_rate": 0.27,
+  "discount_rate": 27,
   "discount_price": 800,
   "min_quantity": 50
  },
@@ -1245,7 +1245,7 @@
   "discount_rate": 0,
   "discount_price": 1525,
   "min_quantity": 30,
-  "info": "유효기간28-04-15 \/ 이벤트"
+  "info": "유효기간28-04-15 이벤트"
  },
  {
   "pharmacy": "대웅제약(shop.co.kr)",
@@ -1549,7 +1549,7 @@
   "unit": "10ml",
   "base_price": 8966,
   "discount_condition": "60개",
-  "discount_rate": 14.000000000000002,
+  "discount_rate": 14,
   "discount_price": 7720,
   "min_quantity": 10
  },
