@@ -986,7 +986,7 @@
   "unit": "10cap",
   "base_price": 1100,
   "discount_condition": 100,
-  "discount_rate": 0.27,
+  "discount_rate": 27,
   "discount_price": 800,
   "min_quantity": 50
  },
