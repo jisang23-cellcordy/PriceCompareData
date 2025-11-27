@@ -901,7 +901,7 @@
     "unit": "60정 2개",
     "base_price": 23000,
     "discount_condition": "20개",
-    "discount_rate": 0.13,
+    "discount_rate": 13,
     "discount_price": 20000
   },
   {
@@ -961,7 +961,7 @@
     "unit": "10cap",
     "base_price": 1100,
     "discount_condition": 100,
-    "discount_rate": 0.27,
+    "discount_rate": 27,
     "discount_price": 800,
     "min_quantity": 50
   },
@@ -986,7 +986,7 @@
     "unit": "10cap",
     "base_price": 1100,
     "discount_condition": 100,
-    "discount_rate": 0.27,
+    "discount_rate": 27,
     "discount_price": 800,
     "min_quantity": 50
   },
